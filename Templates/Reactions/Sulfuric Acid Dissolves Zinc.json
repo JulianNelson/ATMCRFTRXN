@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Sulfuric Acid Dissolves Zinc",
+    "PrimaryInput": "Sulfuric Acid",
+    "Inputs": {
+      "Sulfuric Acid": 1,
+      "Zinc": 1
+    },
+    "Outputs": {
+      "Zinc Sulfate": 1,
+      "Hydrogen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

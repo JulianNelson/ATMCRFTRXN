@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Nitric Acid Dissolves Potash",
+    "PrimaryInput": "Nitric Acid",
+    "Inputs": {
+      "Nitric Acid": 2,
+      "Potash": 1
+    },
+    "Outputs": {
+      "Potassium Nitrate Powder": 2,
+      "Carbon Dioxide": 1,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 293,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 0
+  }
+]

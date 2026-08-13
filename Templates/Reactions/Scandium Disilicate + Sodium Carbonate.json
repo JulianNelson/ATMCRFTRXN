@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Scandium Disilicate + Sodium Carbonate",
+    "PrimaryInput": "Scandium Disilicate",
+    "Inputs": {
+      "Scandium Disilicate": 1,
+      "Sodium Carbonate": 2
+    },
+    "Outputs": {
+      "Sodium Silicate": 2,
+      "Scandium Oxide": 1,
+      "Carbon Dioxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1073,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

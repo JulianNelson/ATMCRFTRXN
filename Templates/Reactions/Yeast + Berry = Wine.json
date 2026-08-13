@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Yeast + Berry = Wine",
+    "PrimaryInput": "Yeast",
+    "Inputs": {
+      "Yeast": 1,
+      "Berry": 1
+    },
+    "Outputs": {
+      "Wine": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 1000
+  }
+]

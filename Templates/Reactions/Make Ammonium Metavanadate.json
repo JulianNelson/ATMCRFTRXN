@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Make Ammonium Metavanadate",
+    "PrimaryInput": "Aqueous Sodium Metavanadate",
+    "Inputs": {
+      "Aqueous Sodium Metavanadate": 1,
+      "Aqueous Ammonium Chloride": 1
+    },
+    "Outputs": {
+      "Ammonium Metavanadate": 1,
+      "Seawater": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

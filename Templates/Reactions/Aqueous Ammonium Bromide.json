@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Ammonium Bromide",
+    "PrimaryInput": "Ammonium Bromide",
+    "Inputs": {
+      "Ammonium Bromide": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Ammonium Bromide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 275,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

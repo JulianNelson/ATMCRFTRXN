@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hydrobromic Acid Dissolves Tin",
+    "PrimaryInput": "Hydrobromic Acid",
+    "Inputs": {
+      "Hydrobromic Acid": 2,
+      "Tin": 1
+    },
+    "Outputs": {
+      "Aqueous Tin Bromide": 1,
+      "Hydrogen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 300,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 50,
+    "Probability": 20
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Hydrofluoric Acid dissolving Limestone",
+    "PrimaryInput": "Hydrofluoric Acid",
+    "Inputs": {
+      "Hydrofluoric Acid": 2,
+      "Limestone": 1
+    },
+    "Outputs": {
+      "Calcium Fluoride": 1,
+      "Carbon Dioxide": 1,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

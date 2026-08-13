@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Silica Reduction",
+    "PrimaryInput": "Molten Silica",
+    "Inputs": {
+      "Molten Silica": 1,
+      "Carbon": 2
+    },
+    "Outputs": {
+      "Molten Silicon": 1,
+      "Carbon Monoxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1750,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

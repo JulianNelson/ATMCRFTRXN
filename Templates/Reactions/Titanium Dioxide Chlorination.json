@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Titanium Dioxide Chlorination",
+    "PrimaryInput": "Titanium Dioxide",
+    "Inputs": {
+      "Titanium Dioxide": 1,
+      "Chlorine Gas": 2,
+      "Carbon": 1
+    },
+    "Outputs": {
+      "Titanium Tetrachloride Gas": 1,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1100,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

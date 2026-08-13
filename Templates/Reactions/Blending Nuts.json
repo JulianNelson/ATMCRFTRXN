@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Blending Nuts",
+    "PrimaryInput": "Nuts",
+    "Inputs": {
+      "Nuts": 1
+    },
+    "Outputs": {
+      "Fat": 1
+    },
+    "Catalysts": {
+      "Blender": 1
+    },
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

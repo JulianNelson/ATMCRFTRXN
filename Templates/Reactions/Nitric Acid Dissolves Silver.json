@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Nitric Acid Dissolves Silver",
+    "PrimaryInput": "Nitric Acid",
+    "Inputs": {
+      "Nitric Acid": 2,
+      "Silver": 1
+    },
+    "Outputs": {
+      "Aqueous Silver Nitrate": 1,
+      "Nitric Oxide Gas": 1,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 0
+  }
+]

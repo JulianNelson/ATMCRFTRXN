@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Sulfur Trioxide Gas + Steam",
+    "PrimaryInput": "Sulfur Trioxide Gas",
+    "Inputs": {
+      "Sulfur Trioxide Gas": 1,
+      "Steam": 1
+    },
+    "Outputs": {
+      "Sulfuric Acid": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 283,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 2000,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hematite Reduction with Wood",
+    "PrimaryInput": "Hematite",
+    "Inputs": {
+      "Hematite": 1,
+      "Wood (Burning)": 3
+    },
+    "Outputs": {
+      "Iron": 3,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 573,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

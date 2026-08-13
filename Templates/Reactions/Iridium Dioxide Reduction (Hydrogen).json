@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Iridium Dioxide Reduction (Hydrogen)",
+    "PrimaryInput": "Iridium Dioxide",
+    "Inputs": {
+      "Iridium Dioxide": 1,
+      "Hydrogen Gas": 2
+    },
+    "Outputs": {
+      "Iridium": 1,
+      "Steam": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 900,
+    "MaxTemperature": 1400,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

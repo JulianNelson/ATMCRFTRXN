@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Chlorine Gas + Ammonia Gas",
+    "PrimaryInput": "Chlorine Gas",
+    "Inputs": {
+      "Chlorine Gas": 3,
+      "Ammonia Gas": 1
+    },
+    "Outputs": {
+      "Nitrogen Trichloride": 1,
+      "Hydrochloric Acid Gas": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

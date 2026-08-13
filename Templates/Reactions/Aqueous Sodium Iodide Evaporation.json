@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Sodium Iodide Evaporation",
+    "PrimaryInput": "Aqueous Sodium Iodide",
+    "Inputs": {
+      "Aqueous Sodium Iodide": 1
+    },
+    "Outputs": {
+      "Sodium Iodide": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 373,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

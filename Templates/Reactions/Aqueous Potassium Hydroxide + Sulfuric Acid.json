@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Aqueous Potassium Hydroxide + Sulfuric Acid",
+    "PrimaryInput": "Aqueous Potassium Hydroxide",
+    "Inputs": {
+      "Aqueous Potassium Hydroxide": 1,
+      "Sulfuric Acid": 1
+    },
+    "Outputs": {
+      "Potassium Sulfate": 1,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 20000,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Scandium Oxide + Hydrochloric Acid",
+    "PrimaryInput": "Scandium Oxide",
+    "Inputs": {
+      "Scandium Oxide": 1,
+      "Hydrochloric Acid": 6
+    },
+    "Outputs": {
+      "Scandium Chloride": 2,
+      "Water": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 293,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

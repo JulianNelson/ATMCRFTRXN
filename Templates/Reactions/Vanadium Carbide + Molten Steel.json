@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Vanadium Carbide + Molten Steel",
+    "PrimaryInput": "Vanadium Carbide",
+    "Inputs": {
+      "Vanadium Carbide": 1,
+      "Molten Steel": 4
+    },
+    "Outputs": {
+      "Molten Vanadium Carbide Steel": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1823,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Cerium Fluorocarbonate Decomposition",
+    "PrimaryInput": "Cerium Fluorocarbonate",
+    "Inputs": {
+      "Cerium Fluorocarbonate": 2
+    },
+    "Outputs": {
+      "Cerium Oxide": 1,
+      "Carbon Dioxide": 1,
+      "Hydrofluoric Acid Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 773,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

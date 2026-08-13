@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Sodium Bromide",
+    "PrimaryInput": "Sodium Bromide",
+    "Inputs": {
+      "Sodium Bromide": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Sodium Bromide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 275,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

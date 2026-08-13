@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Lithium Iodide Evaporation",
+    "PrimaryInput": "Aqueous Lithium Iodide",
+    "Inputs": {
+      "Aqueous Lithium Iodide": 1
+    },
+    "Outputs": {
+      "Lithium Iodide": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 373,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

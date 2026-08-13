@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Compacted Dirt Decomposition",
+    "PrimaryInput": "Compacted Dirt",
+    "Inputs": {
+      "Compacted Dirt": 1
+    },
+    "Outputs": {
+      "Dirt": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 300,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 1000
+  }
+]

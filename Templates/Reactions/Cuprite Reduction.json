@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Cuprite Reduction",
+    "PrimaryInput": "Cuprite Powder",
+    "Inputs": {
+      "Cuprite Powder": 2,
+      "Charcoal": 1
+    },
+    "Outputs": {
+      "Copper": 4,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 573,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Zinc Hydroxide Dehydration",
+    "PrimaryInput": "Zinc Hydroxide",
+    "Inputs": {
+      "Zinc Hydroxide": 1
+    },
+    "Outputs": {
+      "Zinc Oxide": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 423,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

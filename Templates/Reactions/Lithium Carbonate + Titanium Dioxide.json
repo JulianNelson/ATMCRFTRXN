@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Lithium Carbonate + Titanium Dioxide",
+    "PrimaryInput": "Lithium Carbonate",
+    "Inputs": {
+      "Lithium Carbonate": 2,
+      "Titanium Dioxide": 5
+    },
+    "Outputs": {
+      "Lithium Titanate": 1,
+      "Carbon Dioxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 973,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

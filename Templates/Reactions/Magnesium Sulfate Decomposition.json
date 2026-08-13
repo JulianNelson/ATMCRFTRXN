@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Magnesium Sulfate Decomposition",
+    "PrimaryInput": "Magnesium Sulfate",
+    "Inputs": {
+      "Magnesium Sulfate": 1
+    },
+    "Outputs": {
+      "Magnesium Oxide": 1,
+      "Sulfur Trioxide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1123,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

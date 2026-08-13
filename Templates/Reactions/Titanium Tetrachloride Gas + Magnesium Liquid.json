@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Titanium Tetrachloride Gas + Magnesium Liquid",
+    "PrimaryInput": "Titanium Tetrachloride Gas",
+    "Inputs": {
+      "Titanium Tetrachloride Gas": 1,
+      "Magnesium Liquid": 2
+    },
+    "Outputs": {
+      "Titanium": 1,
+      "Magnesium Chloride": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1000,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

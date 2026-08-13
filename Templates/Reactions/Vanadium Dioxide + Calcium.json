@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Vanadium Dioxide + Calcium",
+    "PrimaryInput": "Vanadium Dioxide",
+    "Inputs": {
+      "Vanadium Dioxide": 1,
+      "Calcium": 2
+    },
+    "Outputs": {
+      "Vanadium": 1,
+      "Quick Lime": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1100,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

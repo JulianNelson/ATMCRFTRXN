@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Antimony Trichloride to Antimony Pentachloride",
+    "PrimaryInput": "Antimony Trichloride",
+    "Inputs": {
+      "Antimony Trichloride": 1,
+      "Chlorine Gas": 1
+    },
+    "Outputs": {
+      "Antimony Pentachloride": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 346,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 25
+  }
+]

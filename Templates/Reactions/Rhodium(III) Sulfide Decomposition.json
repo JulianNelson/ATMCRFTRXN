@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Rhodium(III) Sulfide Decomposition",
+    "PrimaryInput": "Rhodium(III) Sulfide",
+    "Inputs": {
+      "Rhodium(III) Sulfide": 1
+    },
+    "Outputs": {
+      "Rhodium(III) Oxide": 1,
+      "Sulfur Dioxide Gas": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 900,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

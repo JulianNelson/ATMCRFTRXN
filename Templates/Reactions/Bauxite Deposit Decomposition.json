@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Bauxite Deposit Decomposition",
+    "PrimaryInput": "Bauxite Deposit",
+    "Inputs": {
+      "Bauxite Deposit": 1
+    },
+    "Outputs": {
+      "Aluminum Oxyhydroxide": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 450,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

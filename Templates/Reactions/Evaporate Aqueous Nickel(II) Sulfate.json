@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Evaporate Aqueous Nickel(II) Sulfate",
+    "PrimaryInput": "Aqueous Nickel(II) Sulfate",
+    "Inputs": {
+      "Aqueous Nickel(II) Sulfate": 1
+    },
+    "Outputs": {
+      "Nickel Sulfate": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 380,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

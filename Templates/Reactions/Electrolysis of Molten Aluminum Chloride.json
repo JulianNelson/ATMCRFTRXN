@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Electrolysis of Molten Aluminum Chloride",
+    "PrimaryInput": "Molten Aluminum Chloride",
+    "Inputs": {
+      "Molten Aluminum Chloride": 2
+    },
+    "Outputs": {
+      "Aluminum": 2,
+      "Chlorine Gas": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": true,
+    "Temperature": 465,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

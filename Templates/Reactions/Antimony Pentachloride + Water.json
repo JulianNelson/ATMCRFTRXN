@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Antimony Pentachloride + Water",
+    "PrimaryInput": "Antimony Pentachloride",
+    "Inputs": {
+      "Antimony Pentachloride": 2,
+      "Water": 5
+    },
+    "Outputs": {
+      "Antimony Pentoxide": 1,
+      "Hydrochloric Acid": 6
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 190,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 0
+  }
+]

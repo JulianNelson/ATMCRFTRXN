@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Acetic Acid + Water = Vinegar",
+    "PrimaryInput": "Acetic Acid",
+    "Inputs": {
+      "Acetic Acid": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Vinegar": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Gold Dissolves in Aqua Regia",
+    "PrimaryInput": "Aqua Regia",
+    "Inputs": {
+      "Aqua Regia": 1,
+      "Gold": 1
+    },
+    "Outputs": {
+      "Chloroauric Acid": 1,
+      "Nitrogen Dioxide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Molten Neodymium Chloride Decomposition",
+    "PrimaryInput": "Molten Neodymium Chloride",
+    "Inputs": {
+      "Molten Neodymium Chloride": 2
+    },
+    "Outputs": {
+      "Neodymium": 2,
+      "Chlorine Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 950,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Curdled Milk to Cheese",
+    "PrimaryInput": "Curdled Milk",
+    "Inputs": {
+      "Curdled Milk": 1
+    },
+    "Outputs": {
+      "Cheese": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 373,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

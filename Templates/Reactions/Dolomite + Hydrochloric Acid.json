@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Dolomite + Hydrochloric Acid",
+    "PrimaryInput": "Dolomite",
+    "Inputs": {
+      "Dolomite": 1,
+      "Hydrochloric Acid": 4
+    },
+    "Outputs": {
+      "Calcium Chloride": 1,
+      "Magnesium Chloride": 1,
+      "Carbon Dioxide": 2,
+      "Water": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

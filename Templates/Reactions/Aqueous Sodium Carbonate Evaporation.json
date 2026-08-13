@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Sodium Carbonate Evaporation",
+    "PrimaryInput": "Aqueous Sodium Carbonate",
+    "Inputs": {
+      "Aqueous Sodium Carbonate": 1
+    },
+    "Outputs": {
+      "Sodium Carbonate": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 373,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

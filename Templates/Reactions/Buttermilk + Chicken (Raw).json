@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Buttermilk + Chicken (Raw)",
+    "PrimaryInput": "Buttermilk",
+    "Inputs": {
+      "Buttermilk": 1,
+      "Chicken (Raw)": 1
+    },
+    "Outputs": {
+      "Marinated Chicken": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

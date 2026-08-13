@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Sulfuric Acid + Granite Gravel",
+    "PrimaryInput": "Granite Gravel",
+    "Inputs": {
+      "Granite Gravel": 1,
+      "Sulfuric Acid": 3,
+      "Water": 3
+    },
+    "Outputs": {
+      "Aluminum Sulfate": 1,
+      "Calcium Sulfate": 1,
+      "Orthosilicic Acid": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

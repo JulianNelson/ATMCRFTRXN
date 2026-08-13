@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Potassium Oxide + Nitric Acid",
+    "PrimaryInput": "Potassium Oxide",
+    "Inputs": {
+      "Potassium Oxide": 1,
+      "Nitric Acid": 2
+    },
+    "Outputs": {
+      "Potassium Nitrate": 2,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

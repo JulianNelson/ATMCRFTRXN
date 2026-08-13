@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Ammonium Chloride",
+    "PrimaryInput": "Ammonium Chloride",
+    "Inputs": {
+      "Ammonium Chloride": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Ammonium Chloride": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 275,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

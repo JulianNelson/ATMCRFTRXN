@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Alkaline Tellurium Extraction",
+    "PrimaryInput": "Tellurium Dioxide",
+    "Inputs": {
+      "Tellurium Dioxide": 1,
+      "Aqueous Lye": 2
+    },
+    "Outputs": {
+      "Aqueous Sodium Tellurite": 1,
+      "Water": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

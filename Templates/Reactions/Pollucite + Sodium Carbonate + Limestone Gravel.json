@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Pollucite + Sodium Carbonate + Limestone Gravel",
+    "PrimaryInput": "Pollucite",
+    "Inputs": {
+      "Pollucite": 2,
+      "Sodium Carbonate": 1,
+      "Limestone Gravel": 1
+    },
+    "Outputs": {
+      "Cesium Carbonate": 1,
+      "Nepheline": 1,
+      "Carbon Dioxide": 1,
+      "Steam": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1100,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

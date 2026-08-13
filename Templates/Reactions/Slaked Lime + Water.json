@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Slaked Lime + Water",
+    "PrimaryInput": "Slaked Lime",
+    "Inputs": {
+      "Slaked Lime": 1,
+      "Water": 2
+    },
+    "Outputs": {
+      "Limewater": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

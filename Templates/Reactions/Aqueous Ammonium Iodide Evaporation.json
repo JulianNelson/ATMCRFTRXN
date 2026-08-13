@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Ammonium Iodide Evaporation",
+    "PrimaryInput": "Aqueous Ammonium Iodide",
+    "Inputs": {
+      "Aqueous Ammonium Iodide": 1
+    },
+    "Outputs": {
+      "Ammonium Iodide": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 373,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

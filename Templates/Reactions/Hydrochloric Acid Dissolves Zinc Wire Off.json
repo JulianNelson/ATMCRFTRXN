@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hydrochloric Acid Dissolves Zinc Wire Off",
+    "PrimaryInput": "Hydrochloric Acid",
+    "Inputs": {
+      "Hydrochloric Acid": 1,
+      "Zinc Wire Off": 1
+    },
+    "Outputs": {
+      "Zinc Chloride": 1,
+      "Hydrogen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

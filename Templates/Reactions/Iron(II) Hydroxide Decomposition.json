@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Iron(II) Hydroxide Decomposition",
+    "PrimaryInput": "Iron(II) Hydroxide",
+    "Inputs": {
+      "Iron(II) Hydroxide": 1
+    },
+    "Outputs": {
+      "Iron Oxide": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 373,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

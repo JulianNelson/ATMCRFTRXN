@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Sodium Tungstate to APT",
+    "PrimaryInput": "Sodium Tungstate",
+    "Inputs": {
+      "Sodium Tungstate": 1,
+      "Aqueous Ammonium Chloride": 1,
+      "Hydrochloric Acid": 1
+    },
+    "Outputs": {
+      "Ammonium Paratungstate": 1,
+      "Seawater": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 293,
+    "MaxTemperature": 373,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Argentite Decomposition",
+    "PrimaryInput": "Argentite",
+    "Inputs": {
+      "Argentite": 2
+    },
+    "Outputs": {
+      "Molten Silver": 4,
+      "Sulfur Dioxide Gas": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1235,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

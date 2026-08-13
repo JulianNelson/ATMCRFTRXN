@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Aqueous Ammonium Chloride + Aqueous Lye",
+    "PrimaryInput": "Aqueous Ammonium Chloride",
+    "Inputs": {
+      "Aqueous Ammonium Chloride": 1,
+      "Aqueous Lye": 1
+    },
+    "Outputs": {
+      "Ammonia Gas": 1,
+      "Water": 1,
+      "Seawater": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 310,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Aqueous Copper Sulfate + Zinc",
+    "PrimaryInput": "Aqueous Copper(II) Sulfate",
+    "Inputs": {
+      "Aqueous Copper(II) Sulfate": 1,
+      "Zinc": 1
+    },
+    "Outputs": {
+      "Aqueous Zinc Sulfate": 1,
+      "Copper": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 298,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

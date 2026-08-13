@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Blending Foxfire Spore",
+    "PrimaryInput": "Foxfire Spore",
+    "Inputs": {
+      "Foxfire Spore": 1
+    },
+    "Outputs": {
+      "Yeast": 1
+    },
+    "Catalysts": {
+      "Blender": 1
+    },
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

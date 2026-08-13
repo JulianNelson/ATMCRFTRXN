@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Lanthanum Fluorocarbonate Decomposition",
+    "PrimaryInput": "Lanthanum Fluorocarbonate",
+    "Inputs": {
+      "Lanthanum Fluorocarbonate": 2
+    },
+    "Outputs": {
+      "Lanthanum Oxide": 1,
+      "Carbon Dioxide": 1,
+      "Hydrofluoric Acid Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 773,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

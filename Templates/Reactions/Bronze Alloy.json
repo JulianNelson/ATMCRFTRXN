@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Bronze Alloy",
+    "PrimaryInput": "Molten Copper",
+    "Inputs": {
+      "Molten Copper": 3,
+      "Molten Tin": 1
+    },
+    "Outputs": {
+      "Molten Bronze": 4
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

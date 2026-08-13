@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Potassium Sulfate",
+    "PrimaryInput": "Potassium Sulfate",
+    "Inputs": {
+      "Potassium Sulfate": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Potassium Sulfate": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 275,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 0
+  }
+]

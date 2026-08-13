@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Blending Limestone Gravel",
+    "PrimaryInput": "Limestone Gravel",
+    "Inputs": {
+      "Limestone Gravel": 1,
+      "Water": 2
+    },
+    "Outputs": {
+      "Clay": 1
+    },
+    "Catalysts": {
+      "Blender": 1
+    },
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

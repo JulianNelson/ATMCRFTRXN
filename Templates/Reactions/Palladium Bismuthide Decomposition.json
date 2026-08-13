@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Palladium Bismuthide Decomposition",
+    "PrimaryInput": "Palladium Bismuthide",
+    "Inputs": {
+      "Palladium Bismuthide": 4
+    },
+    "Outputs": {
+      "Palladium(II) Oxide": 4,
+      "Bismuth Oxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 700,
+    "MaxTemperature": 1100,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Ammonium Paratungstate Roasting",
+    "PrimaryInput": "Ammonium Paratungstate",
+    "Inputs": {
+      "Ammonium Paratungstate": 1
+    },
+    "Outputs": {
+      "Tungsten Trioxide": 1,
+      "Ammonia Gas": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 750,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

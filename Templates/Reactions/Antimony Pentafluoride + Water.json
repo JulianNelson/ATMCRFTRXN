@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Antimony Pentafluoride + Water",
+    "PrimaryInput": "Antimony Pentafluoride",
+    "Inputs": {
+      "Antimony Pentafluoride": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Antimony Oxytrifluoride": 1,
+      "Hydrofluoric Acid": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 190,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 0
+  }
+]

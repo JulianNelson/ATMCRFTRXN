@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Antimony Trifluoride + Fluorine Gas",
+    "PrimaryInput": "Antimony Trifluoride",
+    "Inputs": {
+      "Antimony Trifluoride": 1,
+      "Fluorine Gas": 1
+    },
+    "Outputs": {
+      "Antimony Pentafluoride": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 300,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 0
+  }
+]

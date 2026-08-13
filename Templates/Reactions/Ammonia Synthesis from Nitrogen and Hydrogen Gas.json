@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Ammonia Synthesis from Nitrogen and Hydrogen Gas",
+    "PrimaryInput": "Nitrogen Gas",
+    "Inputs": {
+      "Nitrogen Gas": 1,
+      "Hydrogen Gas": 3
+    },
+    "Outputs": {
+      "Ammonia Gas": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 650,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

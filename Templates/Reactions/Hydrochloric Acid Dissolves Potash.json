@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hydrochloric Acid Dissolves Potash",
+    "PrimaryInput": "Hydrochloric Acid",
+    "Inputs": {
+      "Hydrochloric Acid": 1,
+      "Potash": 1
+    },
+    "Outputs": {
+      "Potassium Chloride": 1,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 0
+  }
+]

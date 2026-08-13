@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Sulfuric Acid + Nickel Oxide",
+    "PrimaryInput": "Nickel Oxide",
+    "Inputs": {
+      "Nickel Oxide": 1,
+      "Sulfuric Acid": 1
+    },
+    "Outputs": {
+      "Aqueous Nickel Sulfate": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Tin Sulfate",
+    "PrimaryInput": "Tin Sulfate",
+    "Inputs": {
+      "Tin Sulfate": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Tin Sulfate": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

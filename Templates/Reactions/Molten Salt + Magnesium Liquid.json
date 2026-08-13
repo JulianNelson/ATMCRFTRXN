@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Molten Salt + Magnesium Liquid",
+    "PrimaryInput": "Molten Salt",
+    "Inputs": {
+      "Molten Salt": 1,
+      "Magnesium Liquid": 1
+    },
+    "Outputs": {
+      "Sodium": 1,
+      "Magnesium Chloride": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1073,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

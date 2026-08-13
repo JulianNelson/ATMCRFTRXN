@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Tungsten Trioxide Reduction",
+    "PrimaryInput": "Tungsten Trioxide",
+    "Inputs": {
+      "Tungsten Trioxide": 1,
+      "Hydrogen Gas": 3
+    },
+    "Outputs": {
+      "Tungsten": 1,
+      "Water": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 900,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

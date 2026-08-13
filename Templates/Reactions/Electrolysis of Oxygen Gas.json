@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Electrolysis of Oxygen Gas",
+    "PrimaryInput": "Oxygen Gas",
+    "Inputs": {
+      "Oxygen Gas": 3
+    },
+    "Outputs": {
+      "Ozone": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": true,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

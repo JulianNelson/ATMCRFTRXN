@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Fluoroniobic Acid + Lye",
+    "PrimaryInput": "Fluoroniobic Acid",
+    "Inputs": {
+      "Fluoroniobic Acid": 1,
+      "Lye": 5
+    },
+    "Outputs": {
+      "Niobium Oxide": 1,
+      "Sodium Fluoride": 5
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 4
+  }
+]

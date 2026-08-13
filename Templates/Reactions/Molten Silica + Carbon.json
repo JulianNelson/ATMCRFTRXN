@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Molten Silica + Carbon",
+    "PrimaryInput": "Molten Silica",
+    "Inputs": {
+      "Molten Silica": 1,
+      "Carbon": 3
+    },
+    "Outputs": {
+      "Silicon Carbide": 1,
+      "Carbon Monoxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": true,
+    "Temperature": 2600,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Carbothermic Reduction of Dititanium Trioxide",
+    "PrimaryInput": "Dititanium Trioxide",
+    "Inputs": {
+      "Dititanium Trioxide": 1
+    },
+    "Outputs": {
+      "Molten Titanium": 1
+    },
+    "Catalysts": {
+      "Carbon": 1
+    },
+    "Electrolysis": false,
+    "Temperature": 1500,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

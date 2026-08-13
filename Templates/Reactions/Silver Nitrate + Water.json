@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Silver Nitrate + Water",
+    "PrimaryInput": "Silver Nitrate",
+    "Inputs": {
+      "Silver Nitrate": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Silver Nitrate": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

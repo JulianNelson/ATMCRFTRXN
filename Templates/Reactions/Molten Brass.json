@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Molten Brass",
+    "PrimaryInput": "Molten Zinc",
+    "Inputs": {
+      "Molten Copper": 2,
+      "Molten Zinc": 1
+    },
+    "Outputs": {
+      "Molten Brass": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

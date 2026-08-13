@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Magnesium Orthosilicate + Hydrochloric Acid",
+    "PrimaryInput": "Magnesium Orthosilicate",
+    "Inputs": {
+      "Magnesium Orthosilicate": 1,
+      "Hydrochloric Acid": 4
+    },
+    "Outputs": {
+      "Magnesium Chloride": 2,
+      "Orthosilicic Acid": 1,
+      "Water": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 290,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

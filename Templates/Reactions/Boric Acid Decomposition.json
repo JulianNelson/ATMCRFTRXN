@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Boric Acid Decomposition",
+    "PrimaryInput": "Boric Acid",
+    "Inputs": {
+      "Boric Acid": 2
+    },
+    "Outputs": {
+      "Boron Oxide": 1,
+      "Steam": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 570,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

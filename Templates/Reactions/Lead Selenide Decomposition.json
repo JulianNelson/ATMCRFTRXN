@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Lead Selenide Decomposition",
+    "PrimaryInput": "Lead Selenide",
+    "Inputs": {
+      "Lead Selenide": 1
+    },
+    "Outputs": {
+      "Lead Oxide": 1,
+      "Selenium Dioxide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 650,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

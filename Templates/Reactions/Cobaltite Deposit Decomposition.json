@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Cobaltite Deposit Decomposition",
+    "PrimaryInput": "Cobaltite Deposit",
+    "Inputs": {
+      "Cobaltite Deposit": 2
+    },
+    "Outputs": {
+      "Cobalt Oxide": 2,
+      "Arsenic Trioxide Gas": 1,
+      "Sulfur Dioxide Gas": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1835,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

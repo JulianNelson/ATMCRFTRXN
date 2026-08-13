@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Iridium Disulfide Decomposition",
+    "PrimaryInput": "Iridium Disulfide",
+    "Inputs": {
+      "Iridium Disulfide": 1
+    },
+    "Outputs": {
+      "Iridium Dioxide": 1,
+      "Sulfur Dioxide Gas": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1000,
+    "MaxTemperature": 1400,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Dissolve Sodium Metavanadate in Water",
+    "PrimaryInput": "Sodium Metavanadate",
+    "Inputs": {
+      "Sodium Metavanadate": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Sodium Metavanadate": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

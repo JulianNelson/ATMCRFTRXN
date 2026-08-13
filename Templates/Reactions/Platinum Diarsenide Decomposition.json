@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Platinum Diarsenide Decomposition",
+    "PrimaryInput": "Platinum Diarsenide",
+    "Inputs": {
+      "Platinum Diarsenide": 1
+    },
+    "Outputs": {
+      "Platinum Dioxide": 1,
+      "Arsenic Trioxide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 800,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

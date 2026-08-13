@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Vanadium Dioxide + Molten Aluminum",
+    "PrimaryInput": "Vanadium Dioxide",
+    "Inputs": {
+      "Vanadium Dioxide": 3,
+      "Molten Aluminum": 4
+    },
+    "Outputs": {
+      "Vanadium": 3,
+      "Alumina": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 2000,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 20000,
+    "Probability": 0
+  }
+]

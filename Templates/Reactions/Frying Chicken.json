@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Frying Chicken",
+    "PrimaryInput": "Marinated Chicken",
+    "Inputs": {
+      "Marinated Chicken": 1,
+      "Liquid Fat": 1
+    },
+    "Outputs": {
+      "Fried Chicken": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 443,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

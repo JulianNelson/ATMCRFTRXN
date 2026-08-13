@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Tungsten + Carbon",
+    "PrimaryInput": "Tungsten",
+    "Inputs": {
+      "Tungsten": 1,
+      "Carbon": 1
+    },
+    "Outputs": {
+      "Tungsten Carbide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 2000,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

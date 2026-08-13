@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Uranium Tetrafluoride + Magnesium Liquid",
+    "PrimaryInput": "Uranium Tetrafluoride",
+    "Inputs": {
+      "Uranium Tetrafluoride": 1,
+      "Magnesium Liquid": 2
+    },
+    "Outputs": {
+      "Uranium": 1,
+      "Magnesium Fluoride": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 973,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

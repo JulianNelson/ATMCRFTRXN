@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Boudouard Equilibrium 500-725K",
+    "PrimaryInput": "Carbon Monoxide",
+    "Inputs": {
+      "Carbon Monoxide": 2
+    },
+    "Outputs": {
+      "Carbon Dioxide": 1,
+      "Carbon": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 500,
+    "MaxTemperature": 725,
+    "ChangeInTemperature": 0,
+    "Probability": 100
+  }
+]

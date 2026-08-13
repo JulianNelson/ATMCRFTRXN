@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Copper Oxide + Hydrochloric Acid",
+    "PrimaryInput": "Copper Oxide",
+    "Inputs": {
+      "Copper Oxide": 1,
+      "Hydrochloric Acid": 1
+    },
+    "Outputs": {
+      "Copper(II) Chloride": 1,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 290,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

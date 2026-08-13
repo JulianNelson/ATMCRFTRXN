@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Cesium Carbonate + Hydrochloric Acid",
+    "PrimaryInput": "Cesium Carbonate",
+    "Inputs": {
+      "Cesium Carbonate": 1,
+      "Hydrochloric Acid": 2
+    },
+    "Outputs": {
+      "Cesium Chloride": 2,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 290,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

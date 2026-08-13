@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Cerium Oxide + Chlorine Gas + Carbon",
+    "PrimaryInput": "Cerium Oxide",
+    "Inputs": {
+      "Cerium Oxide": 1,
+      "Chlorine Gas": 3,
+      "Carbon": 3
+    },
+    "Outputs": {
+      "Cerium Chloride": 2,
+      "Carbon Dioxide": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 900,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

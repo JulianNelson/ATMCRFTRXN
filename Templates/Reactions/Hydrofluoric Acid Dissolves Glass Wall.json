@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hydrofluoric Acid Dissolves Glass Wall",
+    "PrimaryInput": "Hydrofluoric Acid",
+    "Inputs": {
+      "Hydrofluoric Acid": 4,
+      "Glass Wall": 1
+    },
+    "Outputs": {
+      "Silicon Tetrafluoride": 1,
+      "Water": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

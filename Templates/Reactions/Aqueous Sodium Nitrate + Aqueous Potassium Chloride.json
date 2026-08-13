@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Aqueous Sodium Nitrate + Aqueous Potassium Chloride",
+    "PrimaryInput": "Aqueous Sodium Nitrate",
+    "Inputs": {
+      "Aqueous Sodium Nitrate": 1,
+      "Aqueous Potassium Chloride": 1
+    },
+    "Outputs": {
+      "Aqueous Potassium Nitrate": 1,
+      "Seawater": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 295,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 0
+  }
+]

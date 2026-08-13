@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Iron(II) Hydroxide Production",
+    "PrimaryInput": "Iron(II) Chloride",
+    "Inputs": {
+      "Iron(II) Chloride": 1,
+      "Lye": 2
+    },
+    "Outputs": {
+      "Iron(II) Hydroxide": 1,
+      "Salt": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

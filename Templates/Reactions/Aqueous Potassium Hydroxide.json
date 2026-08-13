@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Potassium Hydroxide",
+    "PrimaryInput": "Potassium Hydroxide",
+    "Inputs": {
+      "Potassium Hydroxide": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Potassium Hydroxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

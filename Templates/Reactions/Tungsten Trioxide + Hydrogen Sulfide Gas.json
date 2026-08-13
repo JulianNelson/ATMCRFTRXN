@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Tungsten Trioxide + Hydrogen Sulfide Gas",
+    "PrimaryInput": "Tungsten Trioxide",
+    "Inputs": {
+      "Tungsten Trioxide": 1,
+      "Hydrogen Sulfide Gas": 2
+    },
+    "Outputs": {
+      "Tungsten Disulfide": 1,
+      "Water": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 873,
+    "MaxTemperature": 1173,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

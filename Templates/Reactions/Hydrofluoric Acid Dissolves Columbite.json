@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Hydrofluoric Acid Dissolves Columbite",
+    "PrimaryInput": "Columbite",
+    "Inputs": {
+      "Columbite": 1,
+      "Hydrofluoric Acid": 6
+    },
+    "Outputs": {
+      "Heptafluorotantalic Acid": 1,
+      "Heptafluoroniobic Acid": 1,
+      "Iron(II) Fluoride": 2,
+      "Water": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

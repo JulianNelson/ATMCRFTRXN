@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hydrochloric Acid Dissolves Iron Sulfide",
+    "PrimaryInput": "Iron Sulfide",
+    "Inputs": {
+      "Iron Sulfide": 1,
+      "Hydrochloric Acid": 2
+    },
+    "Outputs": {
+      "Iron(II) Chloride": 1,
+      "Hydrogen Sulfide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

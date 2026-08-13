@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Bismuth Oxide Reduction",
+    "PrimaryInput": "Bismuth Oxide",
+    "Inputs": {
+      "Bismuth Oxide": 1,
+      "Carbon": 3
+    },
+    "Outputs": {
+      "Bismuth": 2,
+      "Carbon Monoxide": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1235,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

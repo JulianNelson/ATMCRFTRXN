@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Manganese Hydroxide Decomposition",
+    "PrimaryInput": "Manganese Hydroxide",
+    "Inputs": {
+      "Manganese Hydroxide": 1
+    },
+    "Outputs": {
+      "Manganese(II) Oxide": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 573,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

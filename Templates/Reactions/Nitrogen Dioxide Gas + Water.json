@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Nitrogen Dioxide Gas + Water",
+    "PrimaryInput": "Nitrogen Dioxide Gas",
+    "Inputs": {
+      "Nitrogen Dioxide Gas": 3,
+      "Water": 1
+    },
+    "Outputs": {
+      "Nitric Acid": 2,
+      "Nitric Oxide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 298,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

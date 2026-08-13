@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aluminum Sulfate Decomposition",
+    "PrimaryInput": "Aluminum Sulfate",
+    "Inputs": {
+      "Aluminum Sulfate": 1
+    },
+    "Outputs": {
+      "Alumina": 1,
+      "Sulfur Trioxide Gas": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1000,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

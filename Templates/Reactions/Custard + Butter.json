@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Custard + Butter",
+    "PrimaryInput": "Custard",
+    "Inputs": {
+      "Custard": 1,
+      "Butter": 1
+    },
+    "Outputs": {
+      "Frosting": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

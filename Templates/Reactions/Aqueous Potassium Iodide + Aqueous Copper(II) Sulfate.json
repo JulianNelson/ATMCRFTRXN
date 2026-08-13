@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Aqueous Potassium Iodide + Aqueous Copper(II) Sulfate",
+    "PrimaryInput": "Aqueous Potassium Iodide",
+    "Inputs": {
+      "Aqueous Potassium Iodide": 4,
+      "Aqueous Copper(II) Sulfate": 2
+    },
+    "Outputs": {
+      "Aqueous Potassium Sulfate": 2,
+      "Copper(I) Iodide": 2,
+      "Aqueous Iodine": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 293,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 0
+  }
+]

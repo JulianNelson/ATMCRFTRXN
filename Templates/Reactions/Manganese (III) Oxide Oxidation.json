@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Manganese (III) Oxide Oxidation",
+    "PrimaryInput": "Manganese (III) Oxide",
+    "Inputs": {
+      "Manganese (III) Oxide": 2,
+      "Oxygen Gas": 1
+    },
+    "Outputs": {
+      "Pyrolusite": 4
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 500,
+    "MaxTemperature": 900,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

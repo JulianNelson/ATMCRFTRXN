@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Clay into Ceramic",
+    "PrimaryInput": "Clay",
+    "Inputs": {
+      "Clay": 1
+    },
+    "Outputs": {
+      "Ceramic": 1,
+      "Steam": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 973,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

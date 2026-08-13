@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Antimony Pentafluoride + Hydrofluoric Acid",
+    "PrimaryInput": "Antimony Pentafluoride",
+    "Inputs": {
+      "Antimony Pentafluoride": 1,
+      "Hydrofluoric Acid": 1
+    },
+    "Outputs": {
+      "Fluoroantimonic Acid": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 190,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 0
+  }
+]

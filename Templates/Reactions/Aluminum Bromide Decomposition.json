@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aluminum Bromide Decomposition",
+    "PrimaryInput": "Aluminum Bromide",
+    "Inputs": {
+      "Aluminum Bromide": 2
+    },
+    "Outputs": {
+      "Aluminum": 2,
+      "Bromine Gas": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1200,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

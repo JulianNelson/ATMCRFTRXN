@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Potassium Bisulfate Reduction",
+    "PrimaryInput": "Potassium Bisulfate",
+    "Inputs": {
+      "Potassium Bisulfate": 2,
+      "Carbon": 3
+    },
+    "Outputs": {
+      "Potassium Sulfide": 1,
+      "Carbon Dioxide": 3,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1100,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

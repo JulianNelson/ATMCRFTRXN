@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Calcium Sulfide Roasting to Calcium Sulfate",
+    "PrimaryInput": "Calcium Sulfide",
+    "Inputs": {
+      "Calcium Sulfide": 1
+    },
+    "Outputs": {
+      "Calcium Sulfate": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1243,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 50
+  }
+]

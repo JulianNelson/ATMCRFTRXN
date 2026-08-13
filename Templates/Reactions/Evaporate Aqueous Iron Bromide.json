@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Evaporate Aqueous Iron Bromide",
+    "PrimaryInput": "Aqueous Iron Bromide",
+    "Inputs": {
+      "Aqueous Iron Bromide": 1
+    },
+    "Outputs": {
+      "Iron Bromide": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 380,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

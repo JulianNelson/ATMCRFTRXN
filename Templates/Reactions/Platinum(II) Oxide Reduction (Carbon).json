@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Platinum(II) Oxide Reduction (Carbon)",
+    "PrimaryInput": "Platinum(II) Oxide",
+    "Inputs": {
+      "Platinum(II) Oxide": 1,
+      "Carbon": 1
+    },
+    "Outputs": {
+      "Platinum": 1,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 600,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

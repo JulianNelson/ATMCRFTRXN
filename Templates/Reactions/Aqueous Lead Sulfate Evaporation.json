@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Lead Sulfate Evaporation",
+    "PrimaryInput": "Aqueous Lead Sulfate",
+    "Inputs": {
+      "Aqueous Lead Sulfate": 1
+    },
+    "Outputs": {
+      "Lead Sulfate": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 373,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

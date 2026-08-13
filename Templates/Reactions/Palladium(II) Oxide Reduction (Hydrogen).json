@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Palladium(II) Oxide Reduction (Hydrogen)",
+    "PrimaryInput": "Palladium(II) Oxide",
+    "Inputs": {
+      "Palladium(II) Oxide": 1,
+      "Hydrogen Gas": 1
+    },
+    "Outputs": {
+      "Palladium": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 400,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

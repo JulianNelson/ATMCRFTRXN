@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Carbon Dioxide + Hydrogen Gas w Nickel",
+    "PrimaryInput": "Carbon Dioxide",
+    "Inputs": {
+      "Carbon Dioxide": 1,
+      "Hydrogen Gas": 4
+    },
+    "Outputs": {
+      "Methane": 1,
+      "Steam": 2
+    },
+    "Catalysts": {
+      "Nickel": 1
+    },
+    "Electrolysis": false,
+    "Temperature": 570,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

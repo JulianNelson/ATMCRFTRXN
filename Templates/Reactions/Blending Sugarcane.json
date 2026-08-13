@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Blending Sugarcane",
+    "PrimaryInput": "Sugarcane",
+    "Inputs": {
+      "Sugarcane": 1
+    },
+    "Outputs": {
+      "Sugar": 1
+    },
+    "Catalysts": {
+      "Blender": 1
+    },
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

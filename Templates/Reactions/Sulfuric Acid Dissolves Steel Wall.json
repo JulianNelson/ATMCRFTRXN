@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Sulfuric Acid Dissolves Steel Wall",
+    "PrimaryInput": "Sulfuric Acid",
+    "Inputs": {
+      "Sulfuric Acid": 1,
+      "Steel Wall": 1
+    },
+    "Outputs": {
+      "Iron(II) Sulfate": 1,
+      "Hydrogen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

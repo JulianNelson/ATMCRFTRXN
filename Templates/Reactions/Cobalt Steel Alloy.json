@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Cobalt Steel Alloy",
+    "PrimaryInput": "Molten Cobalt",
+    "Inputs": {
+      "Molten Cobalt": 1,
+      "Molten Steel": 5
+    },
+    "Outputs": {
+      "Molten Cobalt Steel": 6
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Sulfuric Acid + Fluorite Deposit",
+    "PrimaryInput": "Fluorite Deposit",
+    "Inputs": {
+      "Fluorite Deposit": 1,
+      "Sulfuric Acid": 1
+    },
+    "Outputs": {
+      "Hydrofluoric Acid Gas": 2,
+      "Calcium Sulfate": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

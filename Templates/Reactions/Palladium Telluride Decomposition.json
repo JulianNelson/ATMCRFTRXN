@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Palladium Telluride Decomposition",
+    "PrimaryInput": "Palladium Telluride",
+    "Inputs": {
+      "Palladium Telluride": 1
+    },
+    "Outputs": {
+      "Palladium(II) Oxide": 1,
+      "Tellurium Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 700,
+    "MaxTemperature": 1100,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

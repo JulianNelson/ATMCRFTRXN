@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Dissolve Sulfur Dioxide in Water",
+    "PrimaryInput": "Sulfur Dioxide Gas",
+    "Inputs": {
+      "Sulfur Dioxide Gas": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Sulfur Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

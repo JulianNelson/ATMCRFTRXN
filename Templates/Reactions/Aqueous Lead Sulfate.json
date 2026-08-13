@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Lead Sulfate",
+    "PrimaryInput": "Lead Sulfate",
+    "Inputs": {
+      "Lead Sulfate": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Lead Sulfate": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

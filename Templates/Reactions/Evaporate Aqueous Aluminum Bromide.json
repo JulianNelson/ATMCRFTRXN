@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Evaporate Aqueous Aluminum Bromide",
+    "PrimaryInput": "Aqueous Aluminum Bromide",
+    "Inputs": {
+      "Aqueous Aluminum Bromide": 1
+    },
+    "Outputs": {
+      "Aluminum Bromide": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 380,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

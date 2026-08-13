@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Yeast + Sugar = Ethanol + Carbon Dioxide",
+    "PrimaryInput": "Yeast",
+    "Inputs": {
+      "Yeast": 1,
+      "Sugar": 1
+    },
+    "Outputs": {
+      "Ethanol": 1,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 1000
+  }
+]

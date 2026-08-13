@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Sweet Milk + Egg Yolk",
+    "PrimaryInput": "Egg Yolk",
+    "Inputs": {
+      "Egg Yolk": 1,
+      "Sweet Milk": 1
+    },
+    "Outputs": {
+      "Custard": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

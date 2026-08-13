@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Arsenic Trioxide Gas Reduction",
+    "PrimaryInput": "Arsenic Trioxide Gas",
+    "Inputs": {
+      "Arsenic Trioxide Gas": 1,
+      "Carbon": 3
+    },
+    "Outputs": {
+      "Arsenic": 2,
+      "Carbon Monoxide": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1200,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

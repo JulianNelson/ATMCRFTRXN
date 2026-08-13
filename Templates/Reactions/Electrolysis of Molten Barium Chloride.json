@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Electrolysis of Molten Barium Chloride",
+    "PrimaryInput": "Molten Barium Chloride",
+    "Inputs": {
+      "Molten Barium Chloride": 1
+    },
+    "Outputs": {
+      "Molten Barium": 1,
+      "Chlorine Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": true,
+    "Temperature": 1236,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

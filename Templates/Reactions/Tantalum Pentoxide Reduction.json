@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Tantalum Pentoxide Reduction",
+    "PrimaryInput": "Tantalum Pentoxide",
+    "Inputs": {
+      "Tantalum Pentoxide": 1,
+      "Carbon": 5
+    },
+    "Outputs": {
+      "Molten Tantalum": 2,
+      "Carbon Monoxide": 5
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 2000,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

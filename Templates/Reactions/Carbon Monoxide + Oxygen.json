@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Carbon Monoxide + Oxygen",
+    "PrimaryInput": "Carbon Monoxide",
+    "Inputs": {
+      "Carbon Monoxide": 2,
+      "Oxygen Gas": 1
+    },
+    "Outputs": {
+      "Carbon Dioxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

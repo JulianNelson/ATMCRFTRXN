@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aluminum Oxyhydroxide Decomposition",
+    "PrimaryInput": "Aluminum Oxyhydroxide",
+    "Inputs": {
+      "Aluminum Oxyhydroxide": 1
+    },
+    "Outputs": {
+      "Alumina": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 720,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Copper Oxide Decomposition",
+    "PrimaryInput": "Copper Oxide",
+    "Inputs": {
+      "Copper Oxide": 2
+    },
+    "Outputs": {
+      "Molten Copper": 2,
+      "Oxygen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1600,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

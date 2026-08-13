@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Plant Combustion",
+    "PrimaryInput": "Plant",
+    "Inputs": {
+      "Plant": 1
+    },
+    "Outputs": {
+      "Carbon": 1,
+      "Carbon Dioxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 423,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

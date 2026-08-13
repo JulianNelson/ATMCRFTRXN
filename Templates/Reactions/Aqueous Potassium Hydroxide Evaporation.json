@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Potassium Hydroxide Evaporation",
+    "PrimaryInput": "Aqueous Potassium Hydroxide",
+    "Inputs": {
+      "Aqueous Potassium Hydroxide": 1
+    },
+    "Outputs": {
+      "Potassium Hydroxide": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 375,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Lithium Manganese Oxide from Lithium Carbonate",
+    "PrimaryInput": "Lithium Carbonate",
+    "Inputs": {
+      "Lithium Carbonate": 1,
+      "Pyrolusite": 4
+    },
+    "Outputs": {
+      "Lithium Manganese Oxide": 2,
+      "Carbon Dioxide": 1,
+      "Oxygen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 973,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

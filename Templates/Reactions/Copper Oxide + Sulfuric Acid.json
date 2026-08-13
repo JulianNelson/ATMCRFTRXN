@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Copper Oxide + Sulfuric Acid",
+    "PrimaryInput": "Copper Oxide",
+    "Inputs": {
+      "Copper Oxide": 1,
+      "Sulfuric Acid": 1
+    },
+    "Outputs": {
+      "Copper Sulfate": 1,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 290,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

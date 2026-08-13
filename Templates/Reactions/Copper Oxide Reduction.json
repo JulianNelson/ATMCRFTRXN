@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Copper Oxide Reduction",
+    "PrimaryInput": "Copper Oxide",
+    "Inputs": {
+      "Copper Oxide": 2,
+      "Carbon": 1
+    },
+    "Outputs": {
+      "Copper": 2,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 800,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Biscuit Batter + Egg Yolk",
+    "PrimaryInput": "Biscuit Batter",
+    "Inputs": {
+      "Biscuit Batter": 1,
+      "Egg Yolk": 1
+    },
+    "Outputs": {
+      "Pancake Batter": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

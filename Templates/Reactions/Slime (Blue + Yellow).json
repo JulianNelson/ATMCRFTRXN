@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Slime (Blue + Yellow)",
+    "PrimaryInput": "Blue Slime",
+    "Inputs": {
+      "Blue Slime": 1,
+      "Yellow Slime": 1
+    },
+    "Outputs": {
+      "Green Slime": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

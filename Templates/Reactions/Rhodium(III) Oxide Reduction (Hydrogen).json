@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Rhodium(III) Oxide Reduction (Hydrogen)",
+    "PrimaryInput": "Rhodium(III) Oxide",
+    "Inputs": {
+      "Rhodium(III) Oxide": 1,
+      "Hydrogen Gas": 3
+    },
+    "Outputs": {
+      "Rhodium": 2,
+      "Steam": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 800,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

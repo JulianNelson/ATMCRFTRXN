@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Dysprosium Fluoride + Molten Calcium",
+    "PrimaryInput": "Dysprosium Fluoride",
+    "Inputs": {
+      "Dysprosium Fluoride": 2,
+      "Molten Calcium": 3
+    },
+    "Outputs": {
+      "Dysprosium": 2,
+      "Calcium Fluoride": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1270,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

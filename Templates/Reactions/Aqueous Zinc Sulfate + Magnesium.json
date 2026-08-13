@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Aqueous Zinc Sulfate + Magnesium",
+    "PrimaryInput": "Aqueous Zinc Sulfate",
+    "Inputs": {
+      "Aqueous Zinc Sulfate": 1,
+      "Magnesium": 1
+    },
+    "Outputs": {
+      "Aqueous Magnesium Sulfate": 1,
+      "Zinc": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 298,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Sodium Bisulfate + Lye",
+    "PrimaryInput": "Sodium Bisulfate",
+    "Inputs": {
+      "Sodium Bisulfate": 1,
+      "Lye": 1
+    },
+    "Outputs": {
+      "Sodium Sulfate": 1,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 293,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Dirt + Cow Manure",
+    "PrimaryInput": "Cow Manure",
+    "Inputs": {
+      "Cow Manure": 1,
+      "Dirt": 1
+    },
+    "Outputs": {
+      "Loam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 1000
+  }
+]

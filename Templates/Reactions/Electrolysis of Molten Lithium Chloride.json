@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Electrolysis of Molten Lithium Chloride",
+    "PrimaryInput": "Molten Lithium Chloride",
+    "Inputs": {
+      "Molten Lithium Chloride": 2
+    },
+    "Outputs": {
+      "Molten Lithium": 2,
+      "Chlorine Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": true,
+    "Temperature": 880,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

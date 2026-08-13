@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Sphalerite Deposit Decomposition",
+    "PrimaryInput": "Sphalerite Deposit",
+    "Inputs": {
+      "Sphalerite Deposit": 1
+    },
+    "Outputs": {
+      "Zinc Oxide": 1,
+      "Sulfur Dioxide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 850,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

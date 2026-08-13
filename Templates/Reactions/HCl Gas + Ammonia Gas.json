@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "HCl Gas + Ammonia Gas",
+    "PrimaryInput": "Hydrochloric Acid Gas",
+    "Inputs": {
+      "Hydrochloric Acid Gas": 1,
+      "Ammonia Gas": 1
+    },
+    "Outputs": {
+      "Ammonium Chloride": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

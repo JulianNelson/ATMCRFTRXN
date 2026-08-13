@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Platinum Dioxide Decomposition",
+    "PrimaryInput": "Platinum Dioxide",
+    "Inputs": {
+      "Platinum Dioxide": 1
+    },
+    "Outputs": {
+      "Platinum": 1,
+      "Oxygen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 450,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Aqueous Potassium Heptafluorotantalate(V) + Water",
+    "PrimaryInput": "Aqueous Potassium Heptafluorotantalate(V)",
+    "Inputs": {
+      "Aqueous Potassium Heptafluorotantalate(V)": 1,
+      "Water": 5
+    },
+    "Outputs": {
+      "Tantalum Pentoxide": 1,
+      "Water": 3,
+      "Potassium Fluoride": 1,
+      "Hydrofluoric Acid": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Aqueous Lithium Sulfate + Aqueous Sodium Carbonate",
+    "PrimaryInput": "Aqueous Lithium Sulfate",
+    "Inputs": {
+      "Aqueous Lithium Sulfate": 1,
+      "Aqueous Sodium Carbonate": 1
+    },
+    "Outputs": {
+      "Lithium Carbonate": 1,
+      "Aqueous Sodium Sulfate": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 350,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

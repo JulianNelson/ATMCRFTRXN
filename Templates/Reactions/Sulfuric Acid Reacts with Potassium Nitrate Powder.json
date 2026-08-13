@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Sulfuric Acid Reacts with Potassium Nitrate Powder",
+    "PrimaryInput": "Potassium Nitrate Powder",
+    "Inputs": {
+      "Sulfuric Acid": 1,
+      "Potassium Nitrate Powder": 1
+    },
+    "Outputs": {
+      "Potassium Bisulfate": 1,
+      "Nitric Acid": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

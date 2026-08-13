@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Bromine",
+    "PrimaryInput": "Liquid Bromine",
+    "Inputs": {
+      "Liquid Bromine": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Bromine": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

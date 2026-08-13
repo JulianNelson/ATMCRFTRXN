@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Magnesium Chloride Electrolysis",
+    "PrimaryInput": "Magnesium Chloride",
+    "Inputs": {
+      "Magnesium Chloride": 1
+    },
+    "Outputs": {
+      "Magnesium": 1,
+      "Chlorine Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": true,
+    "Temperature": 1600,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aluminum Bromide Oxidation",
+    "PrimaryInput": "Aluminum Bromide",
+    "Inputs": {
+      "Aluminum Bromide": 4
+    },
+    "Outputs": {
+      "Alumina": 2,
+      "Bromine Gas": 6
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 600,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

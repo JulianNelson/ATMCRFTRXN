@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Copper Sulfate Decomposition",
+    "PrimaryInput": "Copper Sulfate",
+    "Inputs": {
+      "Copper Sulfate": 1
+    },
+    "Outputs": {
+      "Copper Oxide": 1,
+      "Sulfur Trioxide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 923,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

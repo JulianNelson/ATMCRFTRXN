@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Granite Decomposition",
+    "PrimaryInput": "Granite",
+    "Inputs": {
+      "Granite": 1,
+      "Sulfuric Acid": 3,
+      "Water": 3
+    },
+    "Outputs": {
+      "Aluminum Sulfate": 1,
+      "Calcium Sulfate": 1,
+      "Orthosilicic Acid": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

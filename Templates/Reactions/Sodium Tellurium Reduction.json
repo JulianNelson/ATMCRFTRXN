@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Sodium Tellurium Reduction",
+    "PrimaryInput": "Aqueous Sodium Tellurite",
+    "Inputs": {
+      "Aqueous Sodium Tellurite": 1,
+      "Aqueous Sulfur Dioxide": 2,
+      "Water": 1
+    },
+    "Outputs": {
+      "Tellurium": 1,
+      "Aqueous Sodium Sulfate": 1,
+      "Sulfurous Acid (Diluted)": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

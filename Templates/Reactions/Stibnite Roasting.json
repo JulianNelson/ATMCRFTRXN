@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Stibnite Roasting",
+    "PrimaryInput": "Stibnite",
+    "Inputs": {
+      "Stibnite": 2
+    },
+    "Outputs": {
+      "Antimony(III) Oxide": 2,
+      "Sulfur Dioxide Gas": 6
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 773,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 50
+  }
+]

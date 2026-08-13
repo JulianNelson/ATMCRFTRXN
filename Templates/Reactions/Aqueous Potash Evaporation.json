@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Potash Evaporation",
+    "PrimaryInput": "Aqueous Potash",
+    "Inputs": {
+      "Aqueous Potash": 1
+    },
+    "Outputs": {
+      "Potash": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 373,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Orthosilicic Acid Decomposition",
+    "PrimaryInput": "Orthosilicic Acid",
+    "Inputs": {
+      "Orthosilicic Acid": 1
+    },
+    "Outputs": {
+      "Silica": 1,
+      "Steam": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 373,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

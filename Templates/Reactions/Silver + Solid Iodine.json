@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Silver + Solid Iodine",
+    "PrimaryInput": "Solid Iodine",
+    "Inputs": {
+      "Solid Iodine": 1,
+      "Silver": 2
+    },
+    "Outputs": {
+      "Silver Iodide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 298,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

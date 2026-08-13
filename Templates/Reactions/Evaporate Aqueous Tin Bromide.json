@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Evaporate Aqueous Tin Bromide",
+    "PrimaryInput": "Aqueous Tin Bromide",
+    "Inputs": {
+      "Aqueous Tin Bromide": 1
+    },
+    "Outputs": {
+      "Tin Bromide": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 380,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

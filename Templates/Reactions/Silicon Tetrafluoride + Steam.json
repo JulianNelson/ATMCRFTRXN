@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Silicon Tetrafluoride + Steam",
+    "PrimaryInput": "Silicon Tetrafluoride",
+    "Inputs": {
+      "Silicon Tetrafluoride": 1,
+      "Steam": 2
+    },
+    "Outputs": {
+      "Sand": 1,
+      "Hydrofluoric Acid Gas": 4
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hydrochloric Acid Dissolves Magnesium Oxide",
+    "PrimaryInput": "Hydrochloric Acid",
+    "Inputs": {
+      "Hydrochloric Acid": 2,
+      "Magnesium Oxide": 1
+    },
+    "Outputs": {
+      "Magnesium Chloride": 1,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

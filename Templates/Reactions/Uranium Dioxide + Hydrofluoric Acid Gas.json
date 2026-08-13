@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Uranium Dioxide + Hydrofluoric Acid Gas",
+    "PrimaryInput": "Uranium Dioxide",
+    "Inputs": {
+      "Uranium Dioxide": 1,
+      "Hydrofluoric Acid Gas": 4
+    },
+    "Outputs": {
+      "Uranium Tetrafluoride": 1,
+      "Steam": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

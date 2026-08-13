@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Steel Alloy",
+    "PrimaryInput": "Molten Iron",
+    "Inputs": {
+      "Molten Iron": 3,
+      "Carbon": 1
+    },
+    "Outputs": {
+      "Molten Steel": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Sulfur Dioxide + Carbon",
+    "PrimaryInput": "Sulfur Dioxide Gas",
+    "Inputs": {
+      "Sulfur Dioxide Gas": 1,
+      "Carbon": 1
+    },
+    "Outputs": {
+      "Sulfur": 1,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 970,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

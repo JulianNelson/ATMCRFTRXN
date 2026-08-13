@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hydrochloric Acid Dissolves Calcium Sulfide",
+    "PrimaryInput": "Calcium Sulfide",
+    "Inputs": {
+      "Calcium Sulfide": 1,
+      "Hydrochloric Acid": 2
+    },
+    "Outputs": {
+      "Calcium Chloride": 1,
+      "Hydrogen Sulfide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Ammonium Chloride Evaporation",
+    "PrimaryInput": "Aqueous Ammonium Chloride",
+    "Inputs": {
+      "Aqueous Ammonium Chloride": 1
+    },
+    "Outputs": {
+      "Ammonium Chloride": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 373,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

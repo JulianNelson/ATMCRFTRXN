@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Pentlandite Powder Roasting",
+    "PrimaryInput": "Pentlandite Powder",
+    "Inputs": {
+      "Pentlandite Powder": 1
+    },
+    "Outputs": {
+      "Nickel Oxide": 1,
+      "Sulfur Dioxide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 773,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Potassium Nitrate + Sulfuric Acid",
+    "PrimaryInput": "Potassium Nitrate",
+    "Inputs": {
+      "Potassium Nitrate": 1,
+      "Sulfuric Acid": 1
+    },
+    "Outputs": {
+      "Potassium Bisulfate": 1,
+      "Nitric Acid Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

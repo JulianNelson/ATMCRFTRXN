@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Aqueous Copper Sulfate + Magnesium",
+    "PrimaryInput": "Aqueous Copper(II) Sulfate",
+    "Inputs": {
+      "Aqueous Copper(II) Sulfate": 1,
+      "Magnesium": 1
+    },
+    "Outputs": {
+      "Aqueous Magnesium Sulfate": 1,
+      "Copper": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 298,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

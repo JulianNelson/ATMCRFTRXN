@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Milk + Vinegar",
+    "PrimaryInput": "Vinegar",
+    "Inputs": {
+      "Milk": 1,
+      "Vinegar": 1
+    },
+    "Outputs": {
+      "Curdled Milk": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

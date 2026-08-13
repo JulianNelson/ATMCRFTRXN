@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Blending Cream",
+    "PrimaryInput": "Cream",
+    "Inputs": {
+      "Cream": 1
+    },
+    "Outputs": {
+      "Butter": 1,
+      "Buttermilk": 1
+    },
+    "Catalysts": {
+      "Blender": 1
+    },
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

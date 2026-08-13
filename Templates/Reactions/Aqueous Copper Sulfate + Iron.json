@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Aqueous Copper Sulfate + Iron",
+    "PrimaryInput": "Aqueous Copper(II) Sulfate",
+    "Inputs": {
+      "Aqueous Copper(II) Sulfate": 1,
+      "Iron": 1
+    },
+    "Outputs": {
+      "Aqueous Iron(II) Sulfate": 1,
+      "Copper": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 298,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

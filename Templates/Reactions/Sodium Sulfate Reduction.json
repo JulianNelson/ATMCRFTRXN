@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Sodium Sulfate Reduction",
+    "PrimaryInput": "Sodium Sulfate",
+    "Inputs": {
+      "Sodium Sulfate": 1,
+      "Carbon": 2
+    },
+    "Outputs": {
+      "Sodium Sulfide": 1,
+      "Carbon Dioxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1073,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

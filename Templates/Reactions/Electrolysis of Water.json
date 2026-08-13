@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Electrolysis of Water",
+    "PrimaryInput": "Water",
+    "Inputs": {
+      "Water": 2
+    },
+    "Outputs": {
+      "Oxygen Gas": 1,
+      "Hydrogen Gas x2": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": true,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

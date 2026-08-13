@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Wood into Charcoal",
+    "PrimaryInput": "Wood (Burning)",
+    "Inputs": {
+      "Wood (Burning)": 1
+    },
+    "Outputs": {
+      "Charcoal": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 900,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 200
+  }
+]

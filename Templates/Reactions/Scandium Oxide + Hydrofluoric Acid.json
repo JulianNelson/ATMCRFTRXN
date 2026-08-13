@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Scandium Oxide + Hydrofluoric Acid",
+    "PrimaryInput": "Scandium Oxide",
+    "Inputs": {
+      "Scandium Oxide": 1,
+      "Hydrofluoric Acid": 6
+    },
+    "Outputs": {
+      "Scandium Fluoride": 2,
+      "Water": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 473,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

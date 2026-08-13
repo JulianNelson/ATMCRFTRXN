@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hydrochloric Acid + Lithium Carbonate",
+    "PrimaryInput": "Lithium Carbonate",
+    "Inputs": {
+      "Lithium Carbonate": 1,
+      "Hydrochloric Acid": 2
+    },
+    "Outputs": {
+      "Aqueous Lithium Chloride": 2,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Slime (Orange into Fat)",
+    "PrimaryInput": "Orange Slime",
+    "Inputs": {
+      "Orange Slime": 1
+    },
+    "Outputs": {
+      "Fat": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 973,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

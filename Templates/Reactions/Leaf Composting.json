@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Leaf Composting",
+    "PrimaryInput": "Fallen Leaf",
+    "Inputs": {
+      "Fallen Leaf": 1
+    },
+    "Outputs": {
+      "Carbon Dioxide": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 673,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

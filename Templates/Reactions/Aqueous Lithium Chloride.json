@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Lithium Chloride",
+    "PrimaryInput": "Lithium Chloride",
+    "Inputs": {
+      "Lithium Chloride": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Lithium Chloride": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 275,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

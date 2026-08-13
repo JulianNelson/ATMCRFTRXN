@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hypochlorous Acid + Copper",
+    "PrimaryInput": "Hypochlorous Acid",
+    "Inputs": {
+      "Hypochlorous Acid": 2,
+      "Copper": 1
+    },
+    "Outputs": {
+      "Chlorine Gas": 1,
+      "Copper(II) Chloride": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

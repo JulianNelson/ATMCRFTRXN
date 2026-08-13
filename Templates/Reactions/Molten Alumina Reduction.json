@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Molten Alumina Reduction",
+    "PrimaryInput": "Molten Alumina",
+    "Inputs": {
+      "Molten Alumina": 1,
+      "Carbon": 3
+    },
+    "Outputs": {
+      "Molten Aluminum": 2,
+      "Carbon Monoxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 2300,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

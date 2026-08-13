@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Lithium Cobalt Oxide from Lithium Carbonate",
+    "PrimaryInput": "Lithium Carbonate",
+    "Inputs": {
+      "Lithium Carbonate": 1,
+      "Cobalt Oxide": 2
+    },
+    "Outputs": {
+      "Lithium Cobalt Oxide": 2,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 973,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

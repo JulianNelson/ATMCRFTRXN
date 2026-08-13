@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hydrofluoric Acid Dissolves Nickel",
+    "PrimaryInput": "Hydrofluoric Acid",
+    "Inputs": {
+      "Hydrofluoric Acid": 2,
+      "Nickel": 1
+    },
+    "Outputs": {
+      "Nickel(II) Fluoride": 1,
+      "Hydrogen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

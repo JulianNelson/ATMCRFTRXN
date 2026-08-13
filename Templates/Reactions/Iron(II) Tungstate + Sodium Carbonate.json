@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Iron(II) Tungstate + Sodium Carbonate",
+    "PrimaryInput": "Iron(II) Tungstate",
+    "Inputs": {
+      "Iron(II) Tungstate": 1,
+      "Sodium Carbonate": 1
+    },
+    "Outputs": {
+      "Sodium Tungstate": 1,
+      "Iron Oxide": 1,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 900,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

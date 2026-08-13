@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Antimony Roasting",
+    "PrimaryInput": "Antimony",
+    "Inputs": {
+      "Antimony": 2
+    },
+    "Outputs": {
+      "Antimony(III) Oxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 773,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 500
+  }
+]

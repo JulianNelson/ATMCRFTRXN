@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Blending Charcoal (Burning)",
+    "PrimaryInput": "Charcoal (Burning)",
+    "Inputs": {
+      "Charcoal (Burning)": 1
+    },
+    "Outputs": {
+      "Carbon": 1
+    },
+    "Catalysts": {
+      "Blender": 1
+    },
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

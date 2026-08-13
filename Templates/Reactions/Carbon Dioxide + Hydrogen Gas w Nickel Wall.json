@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Carbon Dioxide + Hydrogen Gas w Nickel Wall",
+    "PrimaryInput": "Carbon Dioxide",
+    "Inputs": {
+      "Carbon Dioxide": 1,
+      "Hydrogen Gas": 4
+    },
+    "Outputs": {
+      "Methane": 1,
+      "Steam": 2
+    },
+    "Catalysts": {
+      "Nickel Wall": 1
+    },
+    "Electrolysis": false,
+    "Temperature": 500,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

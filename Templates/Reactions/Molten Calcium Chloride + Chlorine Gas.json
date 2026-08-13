@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Molten Calcium Chloride + Chlorine Gas",
+    "PrimaryInput": "Molten Calcium Chloride",
+    "Inputs": {
+      "Molten Calcium Chloride": 1
+    },
+    "Outputs": {
+      "Molten Calcium": 1,
+      "Chlorine Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": true,
+    "Temperature": 973,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 0
+  }
+]

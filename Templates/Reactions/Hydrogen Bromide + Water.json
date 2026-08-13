@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Hydrogen Bromide + Water",
+    "PrimaryInput": "Hydrogen Bromide",
+    "Inputs": {
+      "Hydrogen Bromide": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Hydrobromic Acid": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Lye",
+    "PrimaryInput": "Lye",
+    "Inputs": {
+      "Lye": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Lye": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 275,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hydrogen Sulfide Gas + Sulfur Dioxide Gas",
+    "PrimaryInput": "Hydrogen Sulfide Gas",
+    "Inputs": {
+      "Hydrogen Sulfide Gas": 2,
+      "Sulfur Dioxide Gas": 1
+    },
+    "Outputs": {
+      "Sulfur": 3,
+      "Steam": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 1100,
+    "Probability": 0
+  }
+]

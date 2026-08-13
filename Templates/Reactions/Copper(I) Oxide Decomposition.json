@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Copper(I) Oxide Decomposition",
+    "PrimaryInput": "Copper(I) Oxide",
+    "Inputs": {
+      "Copper(I) Oxide": 2
+    },
+    "Outputs": {
+      "Copper Oxide": 4
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 473,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

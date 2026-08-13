@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Pyrolusite Deposit Decomposition",
+    "PrimaryInput": "Pyrolusite Deposit",
+    "Inputs": {
+      "Pyrolusite Deposit": 2
+    },
+    "Outputs": {
+      "Manganese (III) Oxide": 1,
+      "Oxygen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1235,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Samarium Fluorocarbonate Decomposition",
+    "PrimaryInput": "Samarium Fluorocarbonate",
+    "Inputs": {
+      "Samarium Fluorocarbonate": 2
+    },
+    "Outputs": {
+      "Samarium Oxide": 1,
+      "Carbon Dioxide": 1,
+      "Hydrofluoric Acid Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 773,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

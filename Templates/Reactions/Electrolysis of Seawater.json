@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Electrolysis of Seawater",
+    "PrimaryInput": "Seawater",
+    "Inputs": {
+      "Seawater": 2
+    },
+    "Outputs": {
+      "Lye": 2,
+      "Hydrogen Gas": 1,
+      "Chlorine Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": true,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

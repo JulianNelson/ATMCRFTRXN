@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Calcium Sulfide Roasting to Quicklime",
+    "PrimaryInput": "Calcium Sulfide",
+    "Inputs": {
+      "Calcium Sulfide": 1
+    },
+    "Outputs": {
+      "Quick Lime": 1,
+      "Sulfur Dioxide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1123,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 80
+  }
+]

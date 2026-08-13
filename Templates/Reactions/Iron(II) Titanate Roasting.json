@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Iron(II) Titanate Roasting",
+    "PrimaryInput": "Iron(II) Titanate",
+    "Inputs": {
+      "Iron(II) Titanate": 4
+    },
+    "Outputs": {
+      "Rust": 2,
+      "Titanium Dioxide": 4
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 900,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 100
+  }
+]

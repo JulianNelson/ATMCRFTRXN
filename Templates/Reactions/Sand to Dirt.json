@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Sand to Dirt",
+    "PrimaryInput": "Sand",
+    "Inputs": {
+      "Sand": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Dirt": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

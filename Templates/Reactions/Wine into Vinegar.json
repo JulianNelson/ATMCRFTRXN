@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Wine into Vinegar",
+    "PrimaryInput": "Wine",
+    "Inputs": {
+      "Wine": 1
+    },
+    "Outputs": {
+      "Acetic Acid": 1,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 1000
+  }
+]

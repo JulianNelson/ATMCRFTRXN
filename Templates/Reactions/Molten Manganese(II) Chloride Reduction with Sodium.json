@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Molten Manganese(II) Chloride Reduction with Sodium",
+    "PrimaryInput": "Molten Manganese(II) Chloride",
+    "Inputs": {
+      "Molten Manganese(II) Chloride": 1,
+      "Sodium": 2
+    },
+    "Outputs": {
+      "Molten Manganese": 1,
+      "Molten Salt": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1100,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

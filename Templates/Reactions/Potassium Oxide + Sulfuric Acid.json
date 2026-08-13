@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Potassium Oxide + Sulfuric Acid",
+    "PrimaryInput": "Potassium Oxide",
+    "Inputs": {
+      "Potassium Oxide": 2,
+      "Sulfuric Acid": 2
+    },
+    "Outputs": {
+      "Potassium Sulfate": 2,
+      "Water": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

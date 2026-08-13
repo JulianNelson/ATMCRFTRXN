@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Limestone Gravel + Hydrochloric Acid",
+    "PrimaryInput": "Limestone Gravel",
+    "Inputs": {
+      "Limestone Gravel": 1,
+      "Hydrochloric Acid": 2
+    },
+    "Outputs": {
+      "Calcium Chloride": 1,
+      "Carbon Dioxide": 1,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

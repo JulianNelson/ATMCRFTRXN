@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Iron(II) Sulfate Evaporation",
+    "PrimaryInput": "Aqueous Iron(II) Sulfate",
+    "Inputs": {
+      "Aqueous Iron(II) Sulfate": 1
+    },
+    "Outputs": {
+      "Iron(II) Sulfate": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 373,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

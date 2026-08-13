@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Antimony(III) Oxide Reduction",
+    "PrimaryInput": "Antimony(III) Oxide",
+    "Inputs": {
+      "Antimony(III) Oxide": 1,
+      "Carbon": 3
+    },
+    "Outputs": {
+      "Antimony": 2,
+      "Carbon Monoxide": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Sodium Oxidation",
+    "PrimaryInput": "Sodium",
+    "Inputs": {
+      "Sodium": 4
+    },
+    "Outputs": {
+      "Sodium Oxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 10000,
+    "Probability": 10000
+  }
+]

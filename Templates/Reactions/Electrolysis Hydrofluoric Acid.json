@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Electrolysis Hydrofluoric Acid",
+    "PrimaryInput": "Hydrofluoric Acid",
+    "Inputs": {
+      "Hydrofluoric Acid": 2
+    },
+    "Outputs": {
+      "Fluorine Gas": 1,
+      "Hydrogen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": true,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

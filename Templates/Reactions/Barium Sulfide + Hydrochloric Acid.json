@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Barium Sulfide + Hydrochloric Acid",
+    "PrimaryInput": "Barium Sulfide",
+    "Inputs": {
+      "Barium Sulfide": 1,
+      "Hydrochloric Acid": 2
+    },
+    "Outputs": {
+      "Barium Chloride": 1,
+      "Hydrogen Sulfide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 293,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

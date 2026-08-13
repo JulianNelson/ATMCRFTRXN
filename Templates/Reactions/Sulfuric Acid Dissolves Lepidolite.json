@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Sulfuric Acid Dissolves Lepidolite",
+    "PrimaryInput": "Lepidolite",
+    "Inputs": {
+      "Lepidolite": 2,
+      "Sulfuric Acid": 6
+    },
+    "Outputs": {
+      "Potassium Sulfate": 1,
+      "Lithium Sulfate": 2,
+      "Aluminum Sulfate": 1,
+      "Sand": 2,
+      "Hydrofluoric Acid": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 523,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

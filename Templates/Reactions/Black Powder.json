@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Black Powder",
+    "PrimaryInput": "Potassium Nitrate Powder",
+    "Inputs": {
+      "Potassium Nitrate Powder": 1,
+      "Sulfur": 1,
+      "Charcoal": 1
+    },
+    "Outputs": {
+      "Black Powder": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

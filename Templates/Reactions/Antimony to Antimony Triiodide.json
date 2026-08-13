@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Antimony to Antimony Triiodide",
+    "PrimaryInput": "Antimony",
+    "Inputs": {
+      "Antimony": 2,
+      "Iodine Gas": 3
+    },
+    "Outputs": {
+      "Antimony Triiodide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 520,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 25
+  }
+]

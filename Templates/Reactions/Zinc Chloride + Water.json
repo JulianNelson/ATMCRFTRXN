@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Zinc Chloride + Water",
+    "PrimaryInput": "Zinc Chloride",
+    "Inputs": {
+      "Zinc Chloride": 1,
+      "Water": 2
+    },
+    "Outputs": {
+      "Aqueous Zinc Chloride": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

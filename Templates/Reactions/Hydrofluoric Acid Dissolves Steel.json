@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hydrofluoric Acid Dissolves Steel",
+    "PrimaryInput": "Hydrofluoric Acid",
+    "Inputs": {
+      "Hydrofluoric Acid": 2,
+      "Steel": 1
+    },
+    "Outputs": {
+      "Iron(II) Fluoride": 1,
+      "Hydrogen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

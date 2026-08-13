@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Tungsten Disulfide Roasting",
+    "PrimaryInput": "Tungsten Disulfide",
+    "Inputs": {
+      "Tungsten Disulfide": 2
+    },
+    "Outputs": {
+      "Tungsten Trioxide": 2,
+      "Sulfur Dioxide Gas": 4
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 673,
+    "MaxTemperature": 973,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

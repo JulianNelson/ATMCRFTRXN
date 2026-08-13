@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Lanthanum Oxide + Chlorine Gas + Carbon",
+    "PrimaryInput": "Lanthanum Oxide",
+    "Inputs": {
+      "Lanthanum Oxide": 1,
+      "Chlorine Gas": 3,
+      "Carbon": 3
+    },
+    "Outputs": {
+      "Lanthanum Chloride": 2,
+      "Carbon Dioxide": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 900,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

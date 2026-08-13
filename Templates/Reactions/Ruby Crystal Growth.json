@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Ruby Crystal Growth",
+    "PrimaryInput": "Ruby Crystal",
+    "Inputs": {
+      "Molten Alumina": 3,
+      "Molten Chromium": 1
+    },
+    "Outputs": {
+      "Ruby Crystal": 1
+    },
+    "Catalysts": {
+      "Ruby Crystal": 1
+    },
+    "Electrolysis": false,
+    "Temperature": 2200,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 0
+  }
+]

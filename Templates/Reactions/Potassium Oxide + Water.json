@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Potassium Oxide + Water",
+    "PrimaryInput": "Potassium Oxide",
+    "Inputs": {
+      "Potassium Oxide": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Potassium Hydroxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

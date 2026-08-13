@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Evaporate Aqueous Lead Bromide",
+    "PrimaryInput": "Aqueous Lead Bromide",
+    "Inputs": {
+      "Aqueous Lead Bromide": 1
+    },
+    "Outputs": {
+      "Lead Bromide": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 380,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

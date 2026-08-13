@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Sulfuric Acid + Limestone Gravel 2",
+    "PrimaryInput": "Sulfuric Acid",
+    "Inputs": {
+      "Limestone Gravel": 1,
+      "Sulfuric Acid": 1
+    },
+    "Outputs": {
+      "Calcium Sulfate": 1,
+      "Water (Carbonated)": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

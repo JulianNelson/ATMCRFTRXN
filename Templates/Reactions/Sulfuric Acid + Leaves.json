@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Sulfuric Acid + Leaves",
+    "PrimaryInput": "Sulfuric Acid",
+    "Inputs": {
+      "Sulfuric Acid": 1,
+      "Leaves": 1
+    },
+    "Outputs": {
+      "Carbon Dioxide": 1,
+      "Sulfuric Acid": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

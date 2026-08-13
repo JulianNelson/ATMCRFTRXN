@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Pentlandite Roasting",
+    "PrimaryInput": "Pentlandite",
+    "Inputs": {
+      "Pentlandite": 1
+    },
+    "Outputs": {
+      "Nickel Oxide": 1,
+      "Sulfur Dioxide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 773,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

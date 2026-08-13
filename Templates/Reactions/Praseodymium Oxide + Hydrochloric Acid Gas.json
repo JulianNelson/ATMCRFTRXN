@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Praseodymium Oxide + Hydrochloric Acid Gas",
+    "PrimaryInput": "Praseodymium Oxide",
+    "Inputs": {
+      "Praseodymium Oxide": 1,
+      "Hydrochloric Acid Gas": 6
+    },
+    "Outputs": {
+      "Praseodymium Chloride": 2,
+      "Water": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 298,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

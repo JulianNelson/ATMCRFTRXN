@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Calcium Sulfide + Water",
+    "PrimaryInput": "Calcium Sulfide",
+    "Inputs": {
+      "Calcium Sulfide": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Quick Lime": 1,
+      "Hydrogen Sulfide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

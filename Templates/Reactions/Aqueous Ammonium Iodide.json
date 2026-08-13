@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Ammonium Iodide",
+    "PrimaryInput": "Ammonium Iodide",
+    "Inputs": {
+      "Ammonium Iodide": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Ammonium Iodide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 275,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

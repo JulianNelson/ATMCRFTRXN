@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Ozone Neutralization By Nitric Oxide Gas",
+    "PrimaryInput": "Nitric Oxide Gas",
+    "Inputs": {
+      "Nitric Oxide Gas": 1,
+      "Ozone": 1
+    },
+    "Outputs": {
+      "Nitrogen Dioxide Gas": 1,
+      "Oxygen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 220,
+    "Probability": 0
+  }
+]

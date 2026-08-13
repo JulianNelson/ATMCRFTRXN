@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Manganese(II) Sulfate",
+    "PrimaryInput": "Manganese(II) Sulfate",
+    "Inputs": {
+      "Manganese(II) Sulfate": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Manganese(II) Sulfate": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

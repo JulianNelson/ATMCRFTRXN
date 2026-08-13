@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Molten Potassium Hydroxide Electrolysis",
+    "PrimaryInput": "Molten Potassium Hydroxide",
+    "Inputs": {
+      "Molten Potassium Hydroxide": 2
+    },
+    "Outputs": {
+      "Potassium Gas": 2,
+      "Hydrogen Gas": 1,
+      "Oxygen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": true,
+    "Temperature": 633,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

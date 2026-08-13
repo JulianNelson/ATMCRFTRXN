@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Sodium Vapor + Steam",
+    "PrimaryInput": "Sodium Vapor",
+    "Inputs": {
+      "Sodium Vapor": 2,
+      "Steam": 2
+    },
+    "Outputs": {
+      "Lye": 2,
+      "Hydrogen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 10000,
+    "Probability": 0
+  }
+]

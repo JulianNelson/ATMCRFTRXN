@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Silicon Reduction of Magnesium Oxide",
+    "PrimaryInput": "Magnesium Oxide",
+    "Inputs": {
+      "Magnesium Oxide": 2,
+      "Quick Lime": 2,
+      "Silicon": 1
+    },
+    "Outputs": {
+      "Magnesium Gas": 2,
+      "Dicalcium Silicate": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

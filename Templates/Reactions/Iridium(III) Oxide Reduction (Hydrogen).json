@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Iridium(III) Oxide Reduction (Hydrogen)",
+    "PrimaryInput": "Iridium(III) Oxide",
+    "Inputs": {
+      "Iridium(III) Oxide": 1,
+      "Hydrogen Gas": 3
+    },
+    "Outputs": {
+      "Iridium": 2,
+      "Steam": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 900,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

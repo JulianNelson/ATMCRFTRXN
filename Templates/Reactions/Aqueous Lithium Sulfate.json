@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Lithium Sulfate",
+    "PrimaryInput": "Lithium Sulfate",
+    "Inputs": {
+      "Lithium Sulfate": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Lithium Sulfate": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

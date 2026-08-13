@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Copper Oxide + Carbon Monoxide",
+    "PrimaryInput": "Copper Oxide",
+    "Inputs": {
+      "Copper Oxide": 1,
+      "Carbon Monoxide": 1
+    },
+    "Outputs": {
+      "Copper": 1,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 500,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Iodine Evaporation",
+    "PrimaryInput": "Aqueous Iodine",
+    "Inputs": {
+      "Aqueous Iodine": 1
+    },
+    "Outputs": {
+      "Iodine Gas": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 373,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

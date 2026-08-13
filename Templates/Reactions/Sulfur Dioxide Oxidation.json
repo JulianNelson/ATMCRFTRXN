@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Sulfur Dioxide Oxidation",
+    "PrimaryInput": "Sulfur Dioxide",
+    "Inputs": {
+      "Sulfur Dioxide": 2,
+      "Oxygen": 2
+    },
+    "Outputs": {
+      "Sulfur Trioxide": 2
+    },
+    "Catalysts": {"Vanadium Pentoxide":0.1},
+    "Electrolysis": false,
+    "Temperature": 400,
+    "MaxTemperature": 600,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

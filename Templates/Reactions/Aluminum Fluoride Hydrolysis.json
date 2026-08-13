@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Aluminum Fluoride Hydrolysis",
+    "PrimaryInput": "Aluminum Fluoride",
+    "Inputs": {
+      "Aluminum Fluoride": 2,
+      "Steam": 3
+    },
+    "Outputs": {
+      "Alumina": 1,
+      "Hydrofluoric Acid Gas": 6
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 800,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

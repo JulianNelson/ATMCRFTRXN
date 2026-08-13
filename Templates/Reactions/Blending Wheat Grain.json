@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Blending Wheat Grain",
+    "PrimaryInput": "Wheat Grain",
+    "Inputs": {
+      "Wheat Grain": 1
+    },
+    "Outputs": {
+      "Flour": 1
+    },
+    "Catalysts": {
+      "Blender": 1
+    },
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

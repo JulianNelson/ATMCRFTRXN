@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Silicon into Silicon Dioxide",
+    "PrimaryInput": "Silicon",
+    "Inputs": {
+      "Silicon": 1,
+      "Steam": 2
+    },
+    "Outputs": {
+      "Sand": 1,
+      "Hydrogen Gas": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 500,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Potassium Bromide",
+    "PrimaryInput": "Potassium Bromide",
+    "Inputs": {
+      "Potassium Bromide": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Potassium Bromide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 275,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

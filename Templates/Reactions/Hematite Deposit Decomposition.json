@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Hematite Deposit Decomposition",
+    "PrimaryInput": "Hematite Deposit",
+    "Inputs": {
+      "Hematite Deposit": 2
+    },
+    "Outputs": {
+      "Iron Oxide": 4,
+      "Oxygen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1835,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

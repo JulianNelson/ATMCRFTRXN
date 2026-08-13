@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Nickel(II) Sulfide Decomposition",
+    "PrimaryInput": "Nickel(II) Sulfide",
+    "Inputs": {
+      "Nickel(II) Sulfide": 1
+    },
+    "Outputs": {
+      "Nickel Oxide": 1,
+      "Sulfur Dioxide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 800,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

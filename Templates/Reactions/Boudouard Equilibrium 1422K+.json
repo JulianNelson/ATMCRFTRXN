@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Boudouard Equilibrium 1422K+",
+    "PrimaryInput": "Carbon Monoxide",
+    "Inputs": {
+      "Carbon Dioxide": 1,
+      "Carbon": 1
+    },
+    "Outputs": {
+      "Carbon Monoxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1422,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

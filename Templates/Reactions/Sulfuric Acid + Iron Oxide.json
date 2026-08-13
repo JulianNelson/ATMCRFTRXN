@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Sulfuric Acid + Iron Oxide",
+    "PrimaryInput": "Sulfuric Acid",
+    "Inputs": {
+      "Iron Oxide": 1,
+      "Sulfuric Acid": 1
+    },
+    "Outputs": {
+      "Iron(II) Sulfate": 1,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

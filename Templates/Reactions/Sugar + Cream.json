@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Sugar + Cream",
+    "PrimaryInput": "Sugar",
+    "Inputs": {
+      "Sugar": 1,
+      "Cream": 1
+    },
+    "Outputs": {
+      "Sweet Cream": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Electrolysis of Aqueous Potassium Chloride",
+    "PrimaryInput": "Aqueous Potassium Chloride",
+    "Inputs": {
+      "Aqueous Potassium Chloride": 2,
+      "Water": 2
+    },
+    "Outputs": {
+      "Aqueous Potassium Hydroxide": 2,
+      "Hydrogen Gas": 1,
+      "Chlorine Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": true,
+    "Temperature": 275,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Triuranium Octoxide + Hydrogen Gas",
+    "PrimaryInput": "Triuranium Octoxide",
+    "Inputs": {
+      "Triuranium Octoxide": 1,
+      "Hydrogen Gas": 1
+    },
+    "Outputs": {
+      "Uranium Dioxide": 3,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 673,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

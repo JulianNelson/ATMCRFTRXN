@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Potassium + Sulfur",
+    "PrimaryInput": "Potassium",
+    "Inputs": {
+      "Potassium": 2,
+      "Sulfur": 1
+    },
+    "Outputs": {
+      "Potassium Sulfide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 400,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

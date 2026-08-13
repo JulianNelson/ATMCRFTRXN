@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Bromine Evaporation",
+    "PrimaryInput": "Aqueous Bromine",
+    "Inputs": {
+      "Aqueous Bromine": 1
+    },
+    "Outputs": {
+      "Bromine Gas": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 373,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

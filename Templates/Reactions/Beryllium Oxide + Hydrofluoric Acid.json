@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Beryllium Oxide + Hydrofluoric Acid",
+    "PrimaryInput": "Beryllium Oxide",
+    "Inputs": {
+      "Beryllium Oxide": 1,
+      "Hydrofluoric Acid": 2
+    },
+    "Outputs": {
+      "Beryllium Fluoride": 1,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 300,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

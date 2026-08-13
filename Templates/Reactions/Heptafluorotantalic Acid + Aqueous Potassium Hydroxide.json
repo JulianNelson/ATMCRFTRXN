@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Heptafluorotantalic Acid + Aqueous Potassium Hydroxide",
+    "PrimaryInput": "Heptafluorotantalic Acid",
+    "Inputs": {
+      "Heptafluorotantalic Acid": 1,
+      "Aqueous Potassium Hydroxide": 2
+    },
+    "Outputs": {
+      "Aqueous Potassium Heptafluorotantalate(V)": 1,
+      "Water": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 5
+  }
+]

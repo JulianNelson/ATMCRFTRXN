@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Zinc Sulfate Decomposition",
+    "PrimaryInput": "Zinc Sulfate",
+    "Inputs": {
+      "Zinc Sulfate": 1
+    },
+    "Outputs": {
+      "Zinc Oxide": 1,
+      "Sulfur Trioxide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 900,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Copper(II) Chloride",
+    "PrimaryInput": "Copper(II) Chloride",
+    "Inputs": {
+      "Copper(II) Chloride": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Copper(II) Chloride": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 275,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 0
+  }
+]

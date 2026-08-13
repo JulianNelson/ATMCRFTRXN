@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Palladium(II) Sulfide Decomposition",
+    "PrimaryInput": "Palladium(II) Sulfide",
+    "Inputs": {
+      "Palladium(II) Sulfide": 1
+    },
+    "Outputs": {
+      "Palladium(II) Oxide": 1,
+      "Sulfur Dioxide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 600,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

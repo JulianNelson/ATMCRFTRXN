@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Platinum(II) Sulfide Decomposition",
+    "PrimaryInput": "Platinum(II) Sulfide",
+    "Inputs": {
+      "Platinum(II) Sulfide": 1
+    },
+    "Outputs": {
+      "Platinum(II) Oxide": 1,
+      "Sulfur Dioxide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 700,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

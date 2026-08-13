@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Zinc Chloride Hydrolysis",
+    "PrimaryInput": "Zinc Chloride",
+    "Inputs": {
+      "Zinc Chloride": 1,
+      "Water": 3
+    },
+    "Outputs": {
+      "Zinc Hydroxide": 1,
+      "Hydrochloric Acid": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

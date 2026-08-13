@@ -1,0 +1,103 @@
+[
+  {
+    "Name": "Molten Lithium Oxide",
+    "LocIdName": "MAT_LIQUID_LITHIUM_OXIDE",
+    "Description": "",
+    "Formula": "Li2O",
+    "State": 1,
+    "ProtonNumber": 0,
+    "NeutronNumber": 0,
+    "TurnsIntoFromAlphaParticleImpact": null,
+    "TurnsIntoFromProtonImpact": null,
+    "TurnsIntoFromNeutronImpact": null,
+    "DecaySettings": null,
+    "PickUpInto": null,
+    "MinesInto": null,
+    "BuildsInto": null,
+    "TurnsOnInto": null,
+    "TurnsOffInto": null,
+    "RotatesRightInto": null,
+    "RotatesLeftInto": null,
+    "ProgrammableDelegate": null,
+    "GrowsInto": null,
+    "WireIndex": null,
+    "HealthChange": -10,
+    "AcidDamage": 0,
+    "Weight": 27,
+    "Density": 16.0,
+    "Hardness": 0,
+    "Composition": {
+      "Elements": [
+        {
+          "Item1": "Lithium",
+          "Item2": 2
+        },
+        {
+          "Item1": "Oxygen",
+          "Item2": 1
+        }
+      ]
+    },
+    "DissolvesInto": null,
+    "Bounciness": 0.0,
+    "ActorFriction": null,
+    "OverrideActorCollision": null,
+    "IsInteractable": false,
+    "IsBurning": false,
+    "IgnoreFogOfWar": false,
+    "CanBeCutByPlasma": false,
+    "Direction": 0,
+    "IsForeground": false,
+    "IsCarryingSignal": false,
+    "IsUnstable": false,
+    "RequiredSupportDirection": null,
+    "DoNotBlockLaser": false,
+    "IsBuilt": false,
+    "IsMechanical": false,
+    "ShowParenthesesWhenInFormula": false,
+    "CanPickUpStatic": false,
+    "IsOn": false,
+    "WireSignalState": 0,
+    "IsFoodIngredient": false,
+    "SuppressInGuide": false,
+    "MaterialAudioTypeId": 0,
+    "GrowthRules": null,
+    "GrowthMedium": null,
+    "Friction": 0,
+    "Viscosity": 0,
+    "DefaultTemperature": 1900,
+    "ThermalConductivity": 100,
+    "ConductanceDivisor": null,
+    "ColorDelegate": "Sand",
+    "Color": {
+      "R": 0.3,
+      "G": 0.8,
+      "B": 1.0,
+      "A": 1.0
+    },
+    "Alpha": 1.0,
+    "LightColor": {
+      "R": 1.0,
+      "G": 0.0,
+      "B": 0.0,
+      "A": 1.0
+    },
+    "LightRange": null,
+    "Condensation": {
+      "TargetMaterialName": "Lithium Oxide",
+      "Temperature": 1710,
+      "Amount": 1,
+      "Probability": 0
+    },
+    "Evaporation": {
+      "TargetMaterialName": "Lithium Oxide Vapor",
+      "Temperature": 2870,
+      "Amount": 1,
+      "Probability": 0
+    },
+    "Ignition": null,
+    "Fire": null,
+    "ExplosionRadius": 0,
+    "DropRates": null
+  }
+]

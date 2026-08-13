@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Palladium(II) Oxide Reduction (Carbon)",
+    "PrimaryInput": "Palladium(II) Oxide",
+    "Inputs": {
+      "Palladium(II) Oxide": 1,
+      "Carbon": 1
+    },
+    "Outputs": {
+      "Palladium": 1,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 650,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Molten Cerium Chloride Decomposition",
+    "PrimaryInput": "Molten Cerium Chloride",
+    "Inputs": {
+      "Molten Cerium Chloride": 2
+    },
+    "Outputs": {
+      "Cerium": 2,
+      "Chlorine Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 950,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

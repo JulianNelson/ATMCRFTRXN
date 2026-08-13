@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Molten Sodium + Water",
+    "PrimaryInput": "Molten Sodium",
+    "Inputs": {
+      "Molten Sodium": 2,
+      "Water": 2
+    },
+    "Outputs": {
+      "Lye": 2,
+      "Hydrogen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 10000,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Compost + Dirt",
+    "PrimaryInput": "Compost",
+    "Inputs": {
+      "Compost": 1,
+      "Dirt": 1
+    },
+    "Outputs": {
+      "Loam": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

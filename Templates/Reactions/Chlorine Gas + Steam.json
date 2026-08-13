@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Chlorine Gas + Steam",
+    "PrimaryInput": "Chlorine Gas",
+    "Inputs": {
+      "Chlorine Gas": 1,
+      "Steam": 1
+    },
+    "Outputs": {
+      "Hydrochloric Acid Gas": 1,
+      "Hypochlorous Acid Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 300,
+    "Probability": 50
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Wood Gasification",
+    "PrimaryInput": "Wood",
+    "Inputs": {
+      "Wood": 9
+    },
+    "Outputs": {
+      "Wood": 4,
+      "Carbon Monoxide": 1,
+      "Carbon Dioxide": 1,
+      "Hydrogen Gas": 1,
+      "Methane": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 900,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 10000
+  }
+]

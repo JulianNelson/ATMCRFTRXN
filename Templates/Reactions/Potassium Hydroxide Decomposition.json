@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Potassium Hydroxide Decomposition",
+    "PrimaryInput": "Potassium Hydroxide",
+    "Inputs": {
+      "Potassium Hydroxide": 2
+    },
+    "Outputs": {
+      "Potassium Oxide": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 800,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Chlorine Gas + Hydrogen Gas",
+    "PrimaryInput": "Chlorine Gas",
+    "Inputs": {
+      "Chlorine Gas": 1,
+      "Hydrogen Gas": 1
+    },
+    "Outputs": {
+      "Hydrochloric Acid": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

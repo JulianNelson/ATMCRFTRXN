@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Expansion of Hydrogen Gas x2",
+    "PrimaryInput": "Hydrogen Gas x2",
+    "Inputs": {
+      "Hydrogen Gas x2": 1
+    },
+    "Outputs": {
+      "Hydrogen Gas": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

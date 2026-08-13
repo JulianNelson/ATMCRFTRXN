@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Molten Salt Electrolysis",
+    "PrimaryInput": "Molten Salt",
+    "Inputs": {
+      "Molten Salt": 2
+    },
+    "Outputs": {
+      "Sodium": 2,
+      "Chlorine Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": true,
+    "Temperature": 1074,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

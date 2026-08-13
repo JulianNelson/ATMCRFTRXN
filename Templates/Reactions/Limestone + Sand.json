@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Limestone + Sand",
+    "PrimaryInput": "Limestone",
+    "Inputs": {
+      "Limestone": 1,
+      "Sand": 1
+    },
+    "Outputs": {
+      "Calcium Silicate": 1,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1600,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

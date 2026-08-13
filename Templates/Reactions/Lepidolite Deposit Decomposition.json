@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Lepidolite Deposit Decomposition",
+    "PrimaryInput": "Lepidolite Deposit",
+    "Inputs": {
+      "Lepidolite Deposit": 1
+    },
+    "Outputs": {
+      "Molten Alumina": 1,
+      "Molten Silica": 1,
+      "Steam": 1,
+      "Hydrofluoric Acid Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 823,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

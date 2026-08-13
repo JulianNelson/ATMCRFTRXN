@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Lithium Titanate Decomposition",
+    "PrimaryInput": "Lithium Carbonate",
+    "Inputs": {
+      "Lithium Titanate": 1
+    },
+    "Outputs": {
+      "Lithium Oxide": 2,
+      "Titanium Dioxide": 5
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1200,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 10000
+  }
+]

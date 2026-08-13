@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Ruby Growth",
+    "PrimaryInput": "Ruby",
+    "Inputs": {
+      "Ruby": 1,
+      "Molten Alumina": 7,
+      "Molten Chromium": 1
+    },
+    "Outputs": {
+      "Ruby": 2,
+      "Molten Alumina": 6
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 2200,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 9000
+  }
+]

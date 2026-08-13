@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Molybdenum Sulfide Oxidation",
+    "PrimaryInput": "Molybdenum Sulfide",
+    "Inputs": {
+      "Molybdenum Sulfide": 2
+    },
+    "Outputs": {
+      "Molybdenum Oxide": 2,
+      "Sulfur Dioxide Gas": 4
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 800,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

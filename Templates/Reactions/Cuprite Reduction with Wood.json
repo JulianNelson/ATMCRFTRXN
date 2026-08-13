@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Cuprite Reduction with Wood",
+    "PrimaryInput": "Cuprite Powder",
+    "Inputs": {
+      "Cuprite Powder": 2,
+      "Wood (Burning)": 1
+    },
+    "Outputs": {
+      "Copper": 2,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 573,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

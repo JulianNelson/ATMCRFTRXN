@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Clay Wall into Ceramic Wall",
+    "PrimaryInput": "Clay Wall",
+    "Inputs": {
+      "Clay Wall": 1
+    },
+    "Outputs": {
+      "Ceramic Wall": 1,
+      "Steam": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 973,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

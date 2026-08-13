@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Electrolysis of Molten Manganese(II) Chloride",
+    "PrimaryInput": "Molten Manganese(II) Chloride",
+    "Inputs": {
+      "Molten Manganese(II) Chloride": 1
+    },
+    "Outputs": {
+      "Molten Manganese": 1,
+      "Chlorine Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": true,
+    "Temperature": 880,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

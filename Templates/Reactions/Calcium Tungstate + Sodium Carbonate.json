@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Calcium Tungstate + Sodium Carbonate",
+    "PrimaryInput": "Calcium Tungstate",
+    "Inputs": {
+      "Calcium Tungstate": 1,
+      "Sodium Carbonate": 1
+    },
+    "Outputs": {
+      "Sodium Tungstate": 1,
+      "Limestone Gravel": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 900,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

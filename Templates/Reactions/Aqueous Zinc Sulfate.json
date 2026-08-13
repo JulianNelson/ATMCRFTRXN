@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Aqueous Zinc Sulfate",
+    "PrimaryInput": "Zinc Sulfate",
+    "Inputs": {
+      "Zinc Sulfate": 1,
+      "Water": 1
+    },
+    "Outputs": {
+      "Aqueous Zinc Sulfate": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

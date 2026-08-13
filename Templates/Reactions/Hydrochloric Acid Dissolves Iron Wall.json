@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hydrochloric Acid Dissolves Iron Wall",
+    "PrimaryInput": "Hydrochloric Acid",
+    "Inputs": {
+      "Hydrochloric Acid": 1,
+      "Iron Wall": 1
+    },
+    "Outputs": {
+      "Iron(II) Chloride": 1,
+      "Hydrogen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

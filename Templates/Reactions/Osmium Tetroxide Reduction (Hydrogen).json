@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Osmium Tetroxide Reduction (Hydrogen)",
+    "PrimaryInput": "Osmium Tetroxide",
+    "Inputs": {
+      "Osmium Tetroxide": 1,
+      "Hydrogen Gas": 4
+    },
+    "Outputs": {
+      "Osmium": 1,
+      "Steam": 4
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 600,
+    "MaxTemperature": 1100,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

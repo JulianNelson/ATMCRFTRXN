@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Hafnium(IV) Orthosilicate Chlorination",
+    "PrimaryInput": "Hafnium(IV) Orthosilicate",
+    "Inputs": {
+      "Hafnium(IV) Orthosilicate": 1,
+      "Chlorine Gas": 2,
+      "Carbon": 2
+    },
+    "Outputs": {
+      "Hafnium Tetrachloride Gas": 1,
+      "Sand": 1,
+      "Carbon Dioxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1100,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

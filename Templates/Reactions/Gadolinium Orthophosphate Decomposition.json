@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Gadolinium Orthophosphate Decomposition",
+    "PrimaryInput": "Gadolinium Orthophosphate",
+    "Inputs": {
+      "Gadolinium Orthophosphate": 2
+    },
+    "Outputs": {
+      "Gadolinium Oxide": 1,
+      "Phosphorus Pentoxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1870,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

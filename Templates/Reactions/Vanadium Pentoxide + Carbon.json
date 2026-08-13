@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Vanadium Pentoxide + Carbon",
+    "PrimaryInput": "Vanadium Pentoxide",
+    "Inputs": {
+      "Vanadium Pentoxide": 1,
+      "Carbon": 7
+    },
+    "Outputs": {
+      "Vanadium Carbide": 2,
+      "Carbon Monoxide": 5
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1573,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

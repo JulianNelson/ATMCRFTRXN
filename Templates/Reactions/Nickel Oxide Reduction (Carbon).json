@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Nickel Oxide Reduction (Carbon)",
+    "PrimaryInput": "Nickel Oxide",
+    "Inputs": {
+      "Nickel Oxide": 1,
+      "Carbon": 1
+    },
+    "Outputs": {
+      "Nickel": 1,
+      "Carbon Monoxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1100,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

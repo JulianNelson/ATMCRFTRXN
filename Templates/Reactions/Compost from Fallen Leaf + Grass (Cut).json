@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Compost from Fallen Leaf + Grass (Cut)",
+    "PrimaryInput": "Grass (Cut)",
+    "Inputs": {
+      "Grass (Cut)": 9
+    },
+    "Outputs": {
+      "Compost": 1,
+      "Grass (Cut)": 7,
+      "Carbon Dioxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 0,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 9000
+  }
+]

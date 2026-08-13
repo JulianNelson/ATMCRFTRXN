@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Sulfuric Acid Dissolves Copper Wire On",
+    "PrimaryInput": "Sulfuric Acid",
+    "Inputs": {
+      "Sulfuric Acid": 2,
+      "Copper Wire On": 1
+    },
+    "Outputs": {
+      "Aqueous Copper(II) Sulfate": 1,
+      "Sulfur Dioxide Gas": 1,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

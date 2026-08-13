@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Iron(II) Titanate Reduction",
+    "PrimaryInput": "Iron(II) Titanate",
+    "Inputs": {
+      "Iron(II) Titanate": 1,
+      "Carbon": 1
+    },
+    "Outputs": {
+      "Titanium Dioxide": 1,
+      "Molten Iron": 1,
+      "Carbon Monoxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1700,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

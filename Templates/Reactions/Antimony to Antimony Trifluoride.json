@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Antimony to Antimony Trifluoride",
+    "PrimaryInput": "Antimony",
+    "Inputs": {
+      "Antimony": 2,
+      "Fluorine Gas": 3
+    },
+    "Outputs": {
+      "Antimony Trifluoride": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 420,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 25
+  }
+]

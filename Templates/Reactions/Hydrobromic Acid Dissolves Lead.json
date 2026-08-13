@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hydrobromic Acid Dissolves Lead",
+    "PrimaryInput": "Hydrobromic Acid",
+    "Inputs": {
+      "Hydrobromic Acid": 2,
+      "Lead": 1
+    },
+    "Outputs": {
+      "Aqueous Lead Bromide": 1,
+      "Hydrogen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 25,
+    "Probability": 100
+  }
+]

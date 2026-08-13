@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Tin Sulfate Decomposition",
+    "PrimaryInput": "Tin Sulfate",
+    "Inputs": {
+      "Tin Sulfate": 1
+    },
+    "Outputs": {
+      "Tin(II) Oxide": 1,
+      "Sulfur Trioxide Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 650,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Tin(II) Oxide + Carbon",
+    "PrimaryInput": "Tin(II) Oxide",
+    "Inputs": {
+      "Tin(II) Oxide": 1,
+      "Carbon": 1
+    },
+    "Outputs": {
+      "Tin": 1,
+      "Carbon Monoxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 800,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

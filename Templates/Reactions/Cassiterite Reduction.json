@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Cassiterite Reduction",
+    "PrimaryInput": "Cassiterite",
+    "Inputs": {
+      "Cassiterite": 1,
+      "Charcoal": 2
+    },
+    "Outputs": {
+      "Tin": 1,
+      "Carbon Dioxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 573,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

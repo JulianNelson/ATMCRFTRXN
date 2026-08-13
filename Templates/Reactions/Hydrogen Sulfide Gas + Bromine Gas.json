@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hydrogen Sulfide Gas + Bromine Gas",
+    "PrimaryInput": "Hydrogen Sulfide Gas",
+    "Inputs": {
+      "Hydrogen Sulfide Gas": 1,
+      "Bromine Gas": 1
+    },
+    "Outputs": {
+      "Hydrogen Bromide Gas": 2,
+      "Sulfur": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 300,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

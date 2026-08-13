@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Dough + Sugar",
+    "PrimaryInput": "Dough",
+    "Inputs": {
+      "Dough": 1,
+      "Sugar": 1
+    },
+    "Outputs": {
+      "Sweet Dough": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

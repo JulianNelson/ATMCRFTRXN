@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Iron Orthosilicate Reduction",
+    "PrimaryInput": "Iron Orthosilicate",
+    "Inputs": {
+      "Iron Orthosilicate": 1,
+      "Carbon": 2
+    },
+    "Outputs": {
+      "Iron": 2,
+      "Sand": 1,
+      "Carbon Monoxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1200,
+    "MaxTemperature": 1700,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

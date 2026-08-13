@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Hydrofluoric Acid Dissolves Dirt",
+    "PrimaryInput": "Hydrofluoric Acid",
+    "Inputs": {
+      "Hydrofluoric Acid": 4,
+      "Dirt": 1
+    },
+    "Outputs": {
+      "Silicon Tetrafluoride": 1,
+      "Water": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Vanadium Pentoxide Reduction",
+    "PrimaryInput": "Vanadium Pentoxide",
+    "Inputs": {
+      "Vanadium Pentoxide": 1,
+      "Carbon": 1
+    },
+    "Outputs": {
+      "Vanadium Dioxide": 2,
+      "Carbon Monoxide": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 870,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

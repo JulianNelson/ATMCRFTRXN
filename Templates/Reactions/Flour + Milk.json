@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Flour + Milk",
+    "PrimaryInput": "Flour",
+    "Inputs": {
+      "Flour": 1,
+      "Milk": 1
+    },
+    "Outputs": {
+      "Dough": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 50
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Platinum(III) Oxide Decomposition",
+    "PrimaryInput": "Platinum(III) Oxide",
+    "Inputs": {
+      "Platinum(III) Oxide": 1
+    },
+    "Outputs": {
+      "Platinum": 2,
+      "Oxygen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 450,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

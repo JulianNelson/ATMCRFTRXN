@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Yeast + Flour = Beer",
+    "PrimaryInput": "Yeast",
+    "Inputs": {
+      "Yeast": 1,
+      "Flour": 1
+    },
+    "Outputs": {
+      "Beer": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 273,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 1000
+  }
+]

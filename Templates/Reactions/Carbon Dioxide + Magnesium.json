@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Carbon Dioxide + Magnesium",
+    "PrimaryInput": "Magnesium",
+    "Inputs": {
+      "Magnesium": 2,
+      "Carbon Dioxide": 1
+    },
+    "Outputs": {
+      "Magnesium Oxide": 2,
+      "Carbon": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 750,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 2300,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Evaporate Aqueous Sodium Sulfate",
+    "PrimaryInput": "Aqueous Sodium Sulfate",
+    "Inputs": {
+      "Aqueous Sodium Sulfate": 1
+    },
+    "Outputs": {
+      "Sodium Sulfate": 1,
+      "Steam": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 380,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

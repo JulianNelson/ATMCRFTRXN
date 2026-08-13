@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Making Aqua Regia",
+    "PrimaryInput": "Hydrochloric Acid",
+    "Inputs": {
+      "Hydrochloric Acid": 3,
+      "Nitric Acid": 1
+    },
+    "Outputs": {
+      "Aqua Regia": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Samarium Oxide + Hydrochloric Acid Gas",
+    "PrimaryInput": "Samarium Oxide",
+    "Inputs": {
+      "Samarium Oxide": 1,
+      "Hydrochloric Acid Gas": 6
+    },
+    "Outputs": {
+      "Samarium Chloride": 2,
+      "Water": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 298,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

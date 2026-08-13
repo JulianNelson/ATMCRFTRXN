@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Sulfuric Acid Dissolves Lithium Manganese Oxide",
+    "PrimaryInput": "Lithium Manganese Oxide",
+    "Inputs": {
+      "Lithium Manganese Oxide": 2,
+      "Sulfuric Acid": 4
+    },
+    "Outputs": {
+      "Lithium Sulfate": 1,
+      "Manganese(II) Sulfate": 2,
+      "Water": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 333,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

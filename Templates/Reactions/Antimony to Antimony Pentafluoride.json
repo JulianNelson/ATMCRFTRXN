@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Antimony to Antimony Pentafluoride",
+    "PrimaryInput": "Antimony",
+    "Inputs": {
+      "Antimony": 2,
+      "Fluorine Gas": 5
+    },
+    "Outputs": {
+      "Antimony Pentafluoride": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 460,
+    "MaxTemperature": null,
+    "ChangeInTemperature": null,
+    "Probability": 25
+  }
+]

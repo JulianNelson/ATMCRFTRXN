@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Iridium Dioxide Reduction (Carbon)",
+    "PrimaryInput": "Iridium Dioxide",
+    "Inputs": {
+      "Iridium Dioxide": 1,
+      "Carbon": 2
+    },
+    "Outputs": {
+      "Iridium": 1,
+      "Carbon Monoxide": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 1100,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

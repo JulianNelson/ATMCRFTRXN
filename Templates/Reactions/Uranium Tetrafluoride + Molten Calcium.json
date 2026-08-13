@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Uranium Tetrafluoride + Molten Calcium",
+    "PrimaryInput": "Uranium Tetrafluoride",
+    "Inputs": {
+      "Uranium Tetrafluoride": 1,
+      "Molten Calcium": 2
+    },
+    "Outputs": {
+      "Uranium": 1,
+      "Calcium Fluoride": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 973,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

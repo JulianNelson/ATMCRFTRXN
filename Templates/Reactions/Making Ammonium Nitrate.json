@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Making Ammonium Nitrate",
+    "PrimaryInput": "Ammonia",
+    "Inputs": {
+      "Ammonia": 1,
+      "Nitric Acid": 1
+    },
+    "Outputs": {
+      "Ammonium Nitrate": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

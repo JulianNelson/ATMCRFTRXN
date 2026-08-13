@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Hydrochloric Acid Dissolves Borax",
+    "PrimaryInput": "Borax",
+    "Inputs": {
+      "Borax": 1,
+      "Hydrochloric Acid": 2,
+      "Water": 5
+    },
+    "Outputs": {
+      "Boric Acid": 4,
+      "Salt": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 350,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]
