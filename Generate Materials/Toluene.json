@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Toluene",
+    "LocIdName": "MAT_TOLUENE",
+    "Description": "Methylbenzene produced in catalytic reformate.",
+    "Formula": "C7H8",
+    "State": 1
+  }
+]

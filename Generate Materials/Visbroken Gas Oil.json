@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Visbroken Gas Oil",
+    "LocIdName": "MAT_VISBROKEN_GAS_OIL",
+    "Description": "Gas oil produced by mild thermal cracking of residue.",
+    "Formula": "C13-C30",
+    "State": 1
+  }
+]

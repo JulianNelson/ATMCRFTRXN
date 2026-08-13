@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Acid Gas",
+    "LocIdName": "MAT_ACID_GAS",
+    "Description": "Concentrated acid gas released during amine regeneration.",
+    "Formula": "H2S+CO2",
+    "State": 2
+  }
+]

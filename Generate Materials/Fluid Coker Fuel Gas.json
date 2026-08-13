@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Fluid Coker Fuel Gas",
+    "LocIdName": "MAT_FLUID_COKER_FUEL_GAS",
+    "Description": "Light fuel gas made in a fluid coker.",
+    "Formula": "C1-C4",
+    "State": 2
+  }
+]

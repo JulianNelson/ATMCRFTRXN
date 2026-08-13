@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Normal Butane",
+    "LocIdName": "MAT_NORMAL_BUTANE",
+    "Description": "Unbranched butane feed for skeletal isomerization.",
+    "Formula": "C4H10",
+    "State": 2
+  }
+]

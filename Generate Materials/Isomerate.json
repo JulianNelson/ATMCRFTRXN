@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Isomerate",
+    "LocIdName": "MAT_ISOMERATE",
+    "Description": "High-octane mixture from light-naphtha isomerization.",
+    "Formula": "C5-C6",
+    "State": 1
+  }
+]

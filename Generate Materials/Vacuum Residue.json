@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Vacuum Residue",
+    "LocIdName": "MAT_VACUUM_RESIDUE",
+    "Description": "Nonvolatile bottom fraction from vacuum distillation.",
+    "Formula": "C50+",
+    "State": 1
+  }
+]

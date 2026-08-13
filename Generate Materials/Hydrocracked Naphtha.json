@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Hydrocracked Naphtha",
+    "LocIdName": "MAT_HYDROCRACKED_NAPHTHA",
+    "Description": "Saturated naphtha made by catalytic hydrocracking.",
+    "Formula": "C5-C10",
+    "State": 1
+  }
+]

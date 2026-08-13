@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Sweetened Kerosene",
+    "LocIdName": "MAT_SWEETENED_KEROSENE",
+    "Description": "Kerosene whose mercaptans have been oxidized to disulfides.",
+    "Formula": "C10-C16",
+    "State": 1
+  }
+]

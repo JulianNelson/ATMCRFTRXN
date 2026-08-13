@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Refinery Gas",
+    "LocIdName": "MAT_REFINERY_GAS",
+    "Description": "Light hydrocarbon gas separated from crude oil by atmospheric distillation.",
+    "Formula": "C1-C4",
+    "State": 2
+  }
+]

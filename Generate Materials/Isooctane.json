@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Isooctane",
+    "LocIdName": "MAT_ISOOCTANE",
+    "Description": "Representative branched C8 alkylation product; enantiomers are combined.",
+    "Formula": "C8H18",
+    "State": 1
+  }
+]

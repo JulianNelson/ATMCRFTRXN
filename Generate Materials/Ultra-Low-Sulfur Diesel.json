@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Ultra-Low-Sulfur Diesel",
+    "LocIdName": "MAT_ULTRA_LOW_SULFUR_DIESEL",
+    "Description": "Diesel blendstock desulfurized by catalytic hydrogen treatment.",
+    "Formula": "C10-C22",
+    "State": 1
+  }
+]

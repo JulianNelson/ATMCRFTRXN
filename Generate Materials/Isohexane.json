@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Isohexane",
+    "LocIdName": "MAT_ISOHEXANE",
+    "Description": "Combined branched hexane isomerization products; stereoisomers are not distinguished.",
+    "Formula": "C6H14",
+    "State": 1
+  }
+]

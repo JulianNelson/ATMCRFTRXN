@@ -5,12 +5,5 @@
     "Description": "Sulfur dioxide and hydrogen sulfide mixture leaving the Claus reaction furnace.",
     "Formula": "SO2+H2S",
     "State": 2
-  },
-  {
-    "Name": "Claus Tail Gas",
-    "LocIdName": "MAT_CLAUS_TAIL_GAS",
-    "Description": "Residual sulfur-bearing gas leaving Claus condensers.",
-    "Formula": "H2S+SO2",
-    "State": 2
   }
 ]

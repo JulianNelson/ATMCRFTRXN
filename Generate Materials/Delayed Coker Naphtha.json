@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Delayed Coker Naphtha",
+    "LocIdName": "MAT_DELAYED_COKER_NAPHTHA",
+    "Description": "Naphtha recovered from delayed-coker vapors.",
+    "Formula": "C5-C10",
+    "State": 1
+  }
+]

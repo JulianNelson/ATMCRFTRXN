@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Distillate Hydrotreater Sour Gas",
+    "LocIdName": "MAT_DISTILLATE_HYDROTREATER_SOUR_GAS",
+    "Description": "Acid gas released while hydrotreating middle distillates.",
+    "Formula": "H2S+NH3",
+    "State": 2
+  }
+]

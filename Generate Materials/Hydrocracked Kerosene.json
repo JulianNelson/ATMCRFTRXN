@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Hydrocracked Kerosene",
+    "LocIdName": "MAT_HYDROCRACKED_KEROSENE",
+    "Description": "Low-sulfur kerosene made by catalytic hydrocracking.",
+    "Formula": "C10-C16",
+    "State": 1
+  }
+]

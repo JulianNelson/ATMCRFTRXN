@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Hydrocracker Unconverted Oil",
+    "LocIdName": "MAT_HYDROCRACKER_UNCONVERTED_OIL",
+    "Description": "Heavy fraction not converted in one hydrocracker pass.",
+    "Formula": "C20+",
+    "State": 1
+  }
+]

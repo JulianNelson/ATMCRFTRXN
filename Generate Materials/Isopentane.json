@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Isopentane",
+    "LocIdName": "MAT_ISOPENTANE",
+    "Description": "Combined branched pentane isomerization product.",
+    "Formula": "C5H12",
+    "State": 1
+  }
+]

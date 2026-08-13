@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Methyl Mercaptan",
+    "LocIdName": "MAT_METHYL_MERCAPTAN",
+    "Description": "Representative light mercaptan in sour refinery streams.",
+    "Formula": "CH4S",
+    "State": 2
+  }
+]

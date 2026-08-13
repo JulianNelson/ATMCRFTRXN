@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Propene",
+    "LocIdName": "MAT_PROPENE",
+    "Description": "Three-carbon olefin feed for refinery alkylation.",
+    "Formula": "C3H6",
+    "State": 2
+  }
+]

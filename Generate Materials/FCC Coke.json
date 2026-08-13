@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "FCC Coke",
+    "LocIdName": "MAT_FCC_COKE",
+    "Description": "Carbonaceous deposit removed from regenerated cracking catalyst.",
+    "Formula": "C",
+    "State": 0
+  }
+]
