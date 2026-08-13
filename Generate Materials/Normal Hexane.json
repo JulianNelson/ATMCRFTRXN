@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Normal Hexane",
+    "LocIdName": "MAT_NORMAL_HEXANE",
+    "Description": "Unbranched hexane feed for light-naphtha isomerization.",
+    "Formula": "C6H14",
+    "State": 1
+  }
+]

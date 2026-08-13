@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Hydrotreated Kerosene",
+    "LocIdName": "MAT_HYDROTREATED_KEROSENE",
+    "Description": "Low-sulfur kerosene produced by distillate hydrotreating.",
+    "Formula": "C10-C16",
+    "State": 1
+  }
+]

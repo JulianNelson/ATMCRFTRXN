@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Isobutane",
+    "LocIdName": "MAT_ISOBUTANE",
+    "Description": "Branched butane used as alkylation feed.",
+    "Formula": "C4H10",
+    "State": 2
+  }
+]

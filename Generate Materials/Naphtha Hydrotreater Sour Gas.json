@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Naphtha Hydrotreater Sour Gas",
+    "LocIdName": "MAT_NAPHTHA_HYDROTREATER_SOUR_GAS",
+    "Description": "Hydrogen sulfide and ammonia rich gas from naphtha hydrotreating.",
+    "Formula": "H2S+NH3",
+    "State": 2
+  }
+]

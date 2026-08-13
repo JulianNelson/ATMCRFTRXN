@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Rich Amine",
+    "LocIdName": "MAT_RICH_AMINE",
+    "Description": "Amine solution loaded with absorbed hydrogen sulfide.",
+    "Formula": "C2H7NO+H2S",
+    "State": 1
+  }
+]

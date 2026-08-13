@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Petroleum Coke",
+    "LocIdName": "MAT_PETROLEUM_COKE",
+    "Description": "Solid carbon-rich delayed-coking product.",
+    "Formula": "C",
+    "State": 0
+  }
+]

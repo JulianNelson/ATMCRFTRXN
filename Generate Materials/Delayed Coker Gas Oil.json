@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Delayed Coker Gas Oil",
+    "LocIdName": "MAT_DELAYED_COKER_GAS_OIL",
+    "Description": "Gas-oil fraction recovered from delayed coking.",
+    "Formula": "C11-C30",
+    "State": 1
+  }
+]

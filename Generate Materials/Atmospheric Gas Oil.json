@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Atmospheric Gas Oil",
+    "LocIdName": "MAT_ATMOSPHERIC_GAS_OIL",
+    "Description": "Gas-oil fraction from atmospheric crude distillation.",
+    "Formula": "C13-C25",
+    "State": 1
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Claus Tail Gas",
+    "LocIdName": "MAT_CLAUS_TAIL_GAS",
+    "Description": "Residual sulfur-bearing gas leaving Claus condensers.",
+    "Formula": "H2S+SO2",
+    "State": 2
+  }
+]

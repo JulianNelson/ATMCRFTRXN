@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Sweetened Naphtha",
+    "LocIdName": "MAT_SWEETENED_NAPHTHA",
+    "Description": "Naphtha whose mercaptans have been oxidized to disulfides.",
+    "Formula": "C5-C10",
+    "State": 1
+  }
+]

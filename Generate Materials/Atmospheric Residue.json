@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Atmospheric Residue",
+    "LocIdName": "MAT_ATMOSPHERIC_RESIDUE",
+    "Description": "High-boiling residue from atmospheric crude distillation.",
+    "Formula": "C25+",
+    "State": 1
+  }
+]

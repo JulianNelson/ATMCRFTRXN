@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Fluid Coker Naphtha",
+    "LocIdName": "MAT_FLUID_COKER_NAPHTHA",
+    "Description": "Naphtha recovered from fluid-coker vapor products.",
+    "Formula": "C5-C10",
+    "State": 1
+  }
+]

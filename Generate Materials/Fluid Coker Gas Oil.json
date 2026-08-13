@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Fluid Coker Gas Oil",
+    "LocIdName": "MAT_FLUID_COKER_GAS_OIL",
+    "Description": "Gas oil recovered from fluid coking.",
+    "Formula": "C11-C30",
+    "State": 1
+  }
+]

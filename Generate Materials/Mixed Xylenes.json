@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Mixed Xylenes",
+    "LocIdName": "MAT_MIXED_XYLENES",
+    "Description": "Combined xylene stereoisomers from catalytic reformate.",
+    "Formula": "C8H10",
+    "State": 1
+  }
+]

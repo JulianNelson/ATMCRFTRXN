@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Reformer Gas",
+    "LocIdName": "MAT_REFORMER_GAS",
+    "Description": "Hydrogen-rich gas from catalytic reforming.",
+    "Formula": "H2+C1-C4",
+    "State": 2
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Normal Pentane",
+    "LocIdName": "MAT_NORMAL_PENTANE",
+    "Description": "Unbranched pentane feed for light-naphtha isomerization.",
+    "Formula": "C5H12",
+    "State": 1
+  }
+]

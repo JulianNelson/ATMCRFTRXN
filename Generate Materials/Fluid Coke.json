@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Fluid Coke",
+    "LocIdName": "MAT_FLUID_COKE",
+    "Description": "Fine carbon-rich solid made in a fluid coker.",
+    "Formula": "C",
+    "State": 0
+  }
+]

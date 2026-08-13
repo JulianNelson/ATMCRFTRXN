@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Alkylate",
+    "LocIdName": "MAT_ALKYLATE",
+    "Description": "High-octane branched paraffin blend from refinery alkylation.",
+    "Formula": "C7-C9",
+    "State": 1
+  }
+]

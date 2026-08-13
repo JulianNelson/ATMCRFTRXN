@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Heavy Vacuum Gas Oil",
+    "LocIdName": "MAT_HEAVY_VACUUM_GAS_OIL",
+    "Description": "Heavy gas-oil fraction recovered by vacuum distillation.",
+    "Formula": "C30-C50",
+    "State": 1
+  }
+]

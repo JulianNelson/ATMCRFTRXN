@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "FCC Gasoline",
+    "LocIdName": "MAT_FCC_GASOLINE",
+    "Description": "High-octane gasoline fraction from fluid catalytic cracking.",
+    "Formula": "C5-C12",
+    "State": 1
+  }
+]

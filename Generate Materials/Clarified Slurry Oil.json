@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Clarified Slurry Oil",
+    "LocIdName": "MAT_CLARIFIED_SLURRY_OIL",
+    "Description": "Aromatic heavy slurry oil from fluid catalytic cracking.",
+    "Formula": "C20+",
+    "State": 1
+  }
+]

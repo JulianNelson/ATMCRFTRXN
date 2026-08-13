@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Light Cycle Oil",
+    "LocIdName": "MAT_LIGHT_CYCLE_OIL",
+    "Description": "Middle-distillate product from fluid catalytic cracking.",
+    "Formula": "C12-C20",
+    "State": 1
+  }
+]

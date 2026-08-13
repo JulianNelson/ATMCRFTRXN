@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Straight-Run Naphtha",
+    "LocIdName": "MAT_STRAIGHT_RUN_NAPHTHA",
+    "Description": "Low-boiling straight-run petroleum fraction.",
+    "Formula": "C5-C10",
+    "State": 1
+  }
+]

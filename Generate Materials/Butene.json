@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Butene",
+    "LocIdName": "MAT_BUTENE",
+    "Description": "Combined butene stereoisomers used as alkylation feed.",
+    "Formula": "C4H8",
+    "State": 2
+  }
+]

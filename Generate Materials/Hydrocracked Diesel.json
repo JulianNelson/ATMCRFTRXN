@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Hydrocracked Diesel",
+    "LocIdName": "MAT_HYDROCRACKED_DIESEL",
+    "Description": "High-cetane diesel made by catalytic hydrocracking.",
+    "Formula": "C10-C22",
+    "State": 1
+  }
+]

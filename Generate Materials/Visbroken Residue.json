@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Visbroken Residue",
+    "LocIdName": "MAT_VISBROKEN_RESIDUE",
+    "Description": "Reduced-viscosity residual fuel component.",
+    "Formula": "C30+",
+    "State": 1
+  }
+]
