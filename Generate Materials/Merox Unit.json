@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "Methyl Mercaptan",
+    "LocIdName": "MAT_METHYL_MERCAPTAN",
+    "Description": "Representative light mercaptan in sour refinery streams.",
+    "Formula": "CH4S",
+    "State": 2
+  },
+  {
+    "Name": "Dimethyl Disulfide",
+    "LocIdName": "MAT_DIMETHYL_DISULFIDE",
+    "Description": "Disulfide formed by sweetening methyl mercaptan.",
+    "Formula": "C2H6S2",
+    "State": 1
+  },
+  {
+    "Name": "Sweetened Naphtha",
+    "LocIdName": "MAT_SWEETENED_NAPHTHA",
+    "Description": "Naphtha whose mercaptans have been oxidized to disulfides.",
+    "Formula": "C5-C10",
+    "State": 1
+  },
+  {
+    "Name": "Sweetened Kerosene",
+    "LocIdName": "MAT_SWEETENED_KEROSENE",
+    "Description": "Kerosene whose mercaptans have been oxidized to disulfides.",
+    "Formula": "C10-C16",
+    "State": 1
+  }
+]

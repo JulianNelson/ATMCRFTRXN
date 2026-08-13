@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Normal Butane Isomerization",
+    "PrimaryInput": "Normal Butane",
+    "Inputs": {
+      "Normal Butane": 1
+    },
+    "Outputs": {
+      "Isobutane": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 180,
+    "MaxTemperature": 220,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

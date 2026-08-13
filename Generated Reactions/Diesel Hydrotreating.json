@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Diesel Hydrotreating",
+    "PrimaryInput": "Diesel",
+    "Inputs": {
+      "Diesel": 5,
+      "Hydrogen Gas": 2
+    },
+    "Outputs": {
+      "Ultra-Low-Sulfur Diesel": 5,
+      "Distillate Hydrotreater Sour Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 360,
+    "MaxTemperature": 420,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]
