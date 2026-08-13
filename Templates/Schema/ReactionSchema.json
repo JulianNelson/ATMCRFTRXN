@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "",
+    "PrimaryInput": "",
+    "Inputs": {
+      "": 0
+    },
+    "Outputs": {
+      "":0
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 100,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]
