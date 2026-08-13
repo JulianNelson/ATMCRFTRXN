@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Vacuum Distillation of Atmospheric Residue",
+    "PrimaryInput": "Atmospheric Residue",
+    "Inputs": {
+      "Atmospheric Residue": 10
+    },
+    "Outputs": {
+      "Light Vacuum Gas Oil": 3,
+      "Heavy Vacuum Gas Oil": 4,
+      "Vacuum Residue": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 400,
+    "MaxTemperature": 450,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

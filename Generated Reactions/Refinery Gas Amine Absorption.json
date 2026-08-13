@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Refinery Gas Amine Absorption",
+    "PrimaryInput": "Refinery Gas",
+    "Inputs": {
+      "Refinery Gas": 5,
+      "Lean Amine": 1
+    },
+    "Outputs": {
+      "Treated Refinery Gas": 5,
+      "Rich Amine": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 40,
+    "MaxTemperature": 60,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

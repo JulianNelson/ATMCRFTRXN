@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Reformate",
+    "LocIdName": "MAT_REFORMATE",
+    "Description": "High-octane aromatic-rich liquid produced by catalytic reforming.",
+    "Formula": "C6-C10",
+    "State": 1
+  },
+  {
+    "Name": "Benzene",
+    "LocIdName": "MAT_BENZENE",
+    "Description": "Aromatic hydrocarbon produced by catalytic reforming.",
+    "Formula": "C6H6",
+    "State": 1
+  },
+  {
+    "Name": "Toluene",
+    "LocIdName": "MAT_TOLUENE",
+    "Description": "Methylbenzene produced in catalytic reformate.",
+    "Formula": "C7H8",
+    "State": 1
+  },
+  {
+    "Name": "Mixed Xylenes",
+    "LocIdName": "MAT_MIXED_XYLENES",
+    "Description": "Combined xylene stereoisomers from catalytic reformate.",
+    "Formula": "C8H10",
+    "State": 1
+  },
+  {
+    "Name": "Reformer Gas",
+    "LocIdName": "MAT_REFORMER_GAS",
+    "Description": "Hydrogen-rich gas from catalytic reforming.",
+    "Formula": "H2+C1-C4",
+    "State": 2
+  }
+]

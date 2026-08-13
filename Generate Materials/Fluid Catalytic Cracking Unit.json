@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "FCC Gasoline",
+    "LocIdName": "MAT_FCC_GASOLINE",
+    "Description": "High-octane gasoline fraction from fluid catalytic cracking.",
+    "Formula": "C5-C12",
+    "State": 1
+  },
+  {
+    "Name": "Light Cycle Oil",
+    "LocIdName": "MAT_LIGHT_CYCLE_OIL",
+    "Description": "Middle-distillate product from fluid catalytic cracking.",
+    "Formula": "C12-C20",
+    "State": 1
+  },
+  {
+    "Name": "Clarified Slurry Oil",
+    "LocIdName": "MAT_CLARIFIED_SLURRY_OIL",
+    "Description": "Aromatic heavy slurry oil from fluid catalytic cracking.",
+    "Formula": "C20+",
+    "State": 1
+  },
+  {
+    "Name": "FCC Coke",
+    "LocIdName": "MAT_FCC_COKE",
+    "Description": "Carbonaceous deposit removed from regenerated cracking catalyst.",
+    "Formula": "C",
+    "State": 0
+  }
+]
