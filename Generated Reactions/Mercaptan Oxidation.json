@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Mercaptan Oxidation",
+    "PrimaryInput": "Methyl Mercaptan",
+    "Inputs": {
+      "Methyl Mercaptan": 2,
+      "Oxygen Gas": 1
+    },
+    "Outputs": {
+      "Dimethyl Disulfide": 1,
+      "Water": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 40,
+    "MaxTemperature": 80,
+    "ChangeInTemperature": 1000,
+    "Probability": 0
+  }
+]

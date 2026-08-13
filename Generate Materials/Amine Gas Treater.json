@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Monoethanolamine",
+    "LocIdName": "MAT_MONOETHANOLAMINE",
+    "Description": "Aqueous amine absorbent represented by monoethanolamine.",
+    "Formula": "C2H7NO",
+    "State": 1
+  },
+  {
+    "Name": "Rich Amine",
+    "LocIdName": "MAT_RICH_AMINE",
+    "Description": "Amine solution loaded with absorbed hydrogen sulfide.",
+    "Formula": "C2H7NO+H2S",
+    "State": 1
+  },
+  {
+    "Name": "Lean Amine",
+    "LocIdName": "MAT_LEAN_AMINE",
+    "Description": "Regenerated amine solution ready for acid-gas absorption.",
+    "Formula": "C2H7NO",
+    "State": 1
+  },
+  {
+    "Name": "Treated Refinery Gas",
+    "LocIdName": "MAT_TREATED_REFINERY_GAS",
+    "Description": "Refinery fuel gas after hydrogen sulfide removal.",
+    "Formula": "C1-C4",
+    "State": 2
+  },
+  {
+    "Name": "Acid Gas",
+    "LocIdName": "MAT_ACID_GAS",
+    "Description": "Concentrated acid gas released during amine regeneration.",
+    "Formula": "H2S+CO2",
+    "State": 2
+  }
+]

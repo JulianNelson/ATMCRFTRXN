@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Hydrocracker Unconverted Oil Recycle",
+    "PrimaryInput": "Hydrocracker Unconverted Oil",
+    "Inputs": {
+      "Hydrocracker Unconverted Oil": 5,
+      "Hydrogen Gas": 2
+    },
+    "Outputs": {
+      "Hydrocracked Naphtha": 1,
+      "Hydrocracked Kerosene": 1,
+      "Hydrocracked Diesel": 3
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 410,
+    "MaxTemperature": 450,
+    "ChangeInTemperature": 2500,
+    "Probability": 0
+  }
+]

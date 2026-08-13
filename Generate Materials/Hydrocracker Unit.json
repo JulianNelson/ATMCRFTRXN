@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "Hydrocracked Naphtha",
+    "LocIdName": "MAT_HYDROCRACKED_NAPHTHA",
+    "Description": "Saturated naphtha made by catalytic hydrocracking.",
+    "Formula": "C5-C10",
+    "State": 1
+  },
+  {
+    "Name": "Hydrocracked Kerosene",
+    "LocIdName": "MAT_HYDROCRACKED_KEROSENE",
+    "Description": "Low-sulfur kerosene made by catalytic hydrocracking.",
+    "Formula": "C10-C16",
+    "State": 1
+  },
+  {
+    "Name": "Hydrocracked Diesel",
+    "LocIdName": "MAT_HYDROCRACKED_DIESEL",
+    "Description": "High-cetane diesel made by catalytic hydrocracking.",
+    "Formula": "C10-C22",
+    "State": 1
+  },
+  {
+    "Name": "Hydrocracker Unconverted Oil",
+    "LocIdName": "MAT_HYDROCRACKER_UNCONVERTED_OIL",
+    "Description": "Heavy fraction not converted in one hydrocracker pass.",
+    "Formula": "C20+",
+    "State": 1
+  }
+]

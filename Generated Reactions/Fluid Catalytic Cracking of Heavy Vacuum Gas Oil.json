@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Fluid Catalytic Cracking of Heavy Vacuum Gas Oil",
+    "PrimaryInput": "Heavy Vacuum Gas Oil",
+    "Inputs": {
+      "Heavy Vacuum Gas Oil": 10
+    },
+    "Outputs": {
+      "FCC Gasoline": 4,
+      "Propene": 1,
+      "Butene": 1,
+      "Light Cycle Oil": 2,
+      "Clarified Slurry Oil": 1,
+      "FCC Coke": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 520,
+    "MaxTemperature": 560,
+    "ChangeInTemperature": 2000,
+    "Probability": 0
+  }
+]

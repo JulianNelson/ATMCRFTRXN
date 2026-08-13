@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "Delayed Coker Naphtha",
+    "LocIdName": "MAT_DELAYED_COKER_NAPHTHA",
+    "Description": "Naphtha recovered from delayed-coker vapors.",
+    "Formula": "C5-C10",
+    "State": 1
+  },
+  {
+    "Name": "Delayed Coker Gas Oil",
+    "LocIdName": "MAT_DELAYED_COKER_GAS_OIL",
+    "Description": "Gas-oil fraction recovered from delayed coking.",
+    "Formula": "C11-C30",
+    "State": 1
+  },
+  {
+    "Name": "Petroleum Coke",
+    "LocIdName": "MAT_PETROLEUM_COKE",
+    "Description": "Solid carbon-rich delayed-coking product.",
+    "Formula": "C",
+    "State": 0
+  },
+  {
+    "Name": "Delayed Coker Gas",
+    "LocIdName": "MAT_DELAYED_COKER_GAS",
+    "Description": "Light hydrocarbon gas from delayed coking.",
+    "Formula": "C1-C4",
+    "State": 2
+  }
+]
