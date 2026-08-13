@@ -1,77 +1,301 @@
-[
-  {
-    "Name": "",
-    "LocIdName": "",
-    "Description": "",
-    "Formula": "",
-    "State": 0,
-    "ProtonNumber": 0,
-    "NeutronNumber": 0,
-    "TurnsIntoFromAlphaParticleImpact": null,
-    "TurnsIntoFromProtonImpact": null,
-    "TurnsIntoFromNeutronImpact": null,
-    "DecaySettings": null,
-    "PickUpInto": null,
-    "MinesInto": "",
-    "BuildsInto": "",
-    "TurnsOnInto": null,
-    "TurnsOffInto": null,
-    "RotatesRightInto": null,
-    "RotatesLeftInto": null,
-    "ProgrammableDelegate": "",
-    "GrowsInto": null,
-    "WireIndex": null,
-    "HealthChange": 0,
-    "AcidDamage": 0,
-    "Weight": 0,
-    "Density": 0,
-    "Hardness": 0,
-    "Composition": null,
-    "DissolvesInto": null,
-    "Bounciness": 0.0,
-    "ActorFriction": null,
-    "OverrideActorCollision": false,
-    "IsInteractable": false,
-    "IsBurning": false,
-    "IgnoreFogOfWar": false,
-    "CanBeCutByPlasma": false,
-    "Direction": 0,
-    "IsForeground": false,
-    "IsCarryingSignal": false,
-    "IsUnstable": false,
-    "RequiredSupportDirection": null,
-    "DoNotBlockLaser": false,
-    "IsBuilt": true,
-    "IsMechanical": true,
-    "ShowParenthesesWhenInFormula": false,
-    "CanPickUpStatic": false,
-    "IsOn": false,
-    "WireSignalState": 0,
-    "IsFoodIngredient": false,
-    "SuppressInGuide": false,
-    "MaterialAudioTypeId": 0,
-    "GrowthRules": null,
-    "GrowthMedium": null,
-    "Friction": 0,
-    "Viscosity": 0,
-    "DefaultTemperature": null,
-    "ThermalConductivity": null,
-    "ConductanceDivisor": null,
-    "ColorDelegate": null,
-    "Color": {
-      "R": 1.0,
-      "G": 1.0,
-      "B": 1.0,
-      "A": 1.0
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "Materials.json",
+  "title": "Material collection",
+  "description": "A collection of material definitions.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "Name",
+      "LocIdName",
+      "Description",
+      "Formula",
+      "State"
+    ],
+    "properties": {
+      "Name": {
+        "type": "string"
+      },
+      "LocIdName": {
+        "type": "string"
+      },
+      "Description": {
+        "type": "string"
+      },
+      "Formula": {
+        "type": "string"
+      },
+      "State": {
+        "type": "integer"
+      },
+      "ProtonNumber": {
+        "type": "integer",
+        "minimum": 0
+      },
+      "NeutronNumber": {
+        "type": "integer",
+        "minimum": 0
+      },
+      "TurnsIntoFromAlphaParticleImpact": {
+        "$ref": "#/$defs/nullableString"
+      },
+      "TurnsIntoFromProtonImpact": {
+        "$ref": "#/$defs/nullableString"
+      },
+      "TurnsIntoFromNeutronImpact": {
+        "$ref": "#/$defs/nullableString"
+      },
+      "DecaySettings": {
+        "$ref": "#/$defs/nullableValue"
+      },
+      "PickUpInto": {
+        "$ref": "#/$defs/nullableString"
+      },
+      "MinesInto": {
+        "type": "string"
+      },
+      "BuildsInto": {
+        "type": "string"
+      },
+      "TurnsOnInto": {
+        "$ref": "#/$defs/nullableString"
+      },
+      "TurnsOffInto": {
+        "$ref": "#/$defs/nullableString"
+      },
+      "RotatesRightInto": {
+        "$ref": "#/$defs/nullableString"
+      },
+      "RotatesLeftInto": {
+        "$ref": "#/$defs/nullableString"
+      },
+      "ProgrammableDelegate": {
+        "type": "string"
+      },
+      "GrowsInto": {
+        "$ref": "#/$defs/nullableString"
+      },
+      "WireIndex": {
+        "$ref": "#/$defs/nullableInteger"
+      },
+      "HealthChange": {
+        "type": "number"
+      },
+      "AcidDamage": {
+        "type": "number"
+      },
+      "Weight": {
+        "type": "number",
+        "minimum": 0
+      },
+      "Density": {
+        "type": "number",
+        "minimum": 0
+      },
+      "Hardness": {
+        "type": "number",
+        "minimum": 0
+      },
+      "Composition": {
+        "$ref": "#/$defs/nullableValue"
+      },
+      "DissolvesInto": {
+        "$ref": "#/$defs/nullableString"
+      },
+      "Bounciness": {
+        "type": "number"
+      },
+      "ActorFriction": {
+        "$ref": "#/$defs/nullableNumber"
+      },
+      "OverrideActorCollision": {
+        "type": "boolean"
+      },
+      "IsInteractable": {
+        "type": "boolean"
+      },
+      "IsBurning": {
+        "type": "boolean"
+      },
+      "IgnoreFogOfWar": {
+        "type": "boolean"
+      },
+      "CanBeCutByPlasma": {
+        "type": "boolean"
+      },
+      "Direction": {
+        "type": "integer"
+      },
+      "IsForeground": {
+        "type": "boolean"
+      },
+      "IsCarryingSignal": {
+        "type": "boolean"
+      },
+      "IsUnstable": {
+        "type": "boolean"
+      },
+      "RequiredSupportDirection": {
+        "$ref": "#/$defs/nullableInteger"
+      },
+      "DoNotBlockLaser": {
+        "type": "boolean"
+      },
+      "IsBuilt": {
+        "type": "boolean"
+      },
+      "IsMechanical": {
+        "type": "boolean"
+      },
+      "ShowParenthesesWhenInFormula": {
+        "type": "boolean"
+      },
+      "CanPickUpStatic": {
+        "type": "boolean"
+      },
+      "IsOn": {
+        "type": "boolean"
+      },
+      "WireSignalState": {
+        "type": "integer"
+      },
+      "IsFoodIngredient": {
+        "type": "boolean"
+      },
+      "SuppressInGuide": {
+        "type": "boolean"
+      },
+      "MaterialAudioTypeId": {
+        "type": "integer"
+      },
+      "GrowthRules": {
+        "$ref": "#/$defs/nullableValue"
+      },
+      "GrowthMedium": {
+        "$ref": "#/$defs/nullableString"
+      },
+      "Friction": {
+        "type": "number"
+      },
+      "Viscosity": {
+        "type": "number"
+      },
+      "DefaultTemperature": {
+        "$ref": "#/$defs/nullableNumber"
+      },
+      "ThermalConductivity": {
+        "$ref": "#/$defs/nullableNumber"
+      },
+      "ConductanceDivisor": {
+        "$ref": "#/$defs/nullableNumber"
+      },
+      "ColorDelegate": {
+        "$ref": "#/$defs/nullableString"
+      },
+      "Color": {
+        "$ref": "#/$defs/color"
+      },
+      "Alpha": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "LightColor": {
+        "oneOf": [
+          {
+            "$ref": "#/$defs/color"
+          },
+          {
+            "type": "null"
+          }
+        ]
+      },
+      "LightRange": {
+        "$ref": "#/$defs/nullableNumber"
+      },
+      "Condensation": {
+        "$ref": "#/$defs/nullableValue"
+      },
+      "Evaporation": {
+        "$ref": "#/$defs/nullableValue"
+      },
+      "Ignition": {
+        "$ref": "#/$defs/nullableValue"
+      },
+      "Fire": {
+        "$ref": "#/$defs/nullableValue"
+      },
+      "ExplosionRadius": {
+        "type": "number",
+        "minimum": 0
+      },
+      "DropRates": {
+        "$ref": "#/$defs/nullableValue"
+      }
+    }
+  },
+  "$defs": {
+    "nullableString": {
+      "type": [
+        "string",
+        "null"
+      ]
     },
-    "Alpha": 0.5,
-    "LightColor": null,
-    "LightRange": null,
-    "Condensation": null,
-    "Evaporation": null,
-    "Ignition": null,
-    "Fire": null,
-    "ExplosionRadius": 0,
-    "DropRates": null
+    "nullableInteger": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "nullableNumber": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "nullableValue": {
+      "type": [
+        "object",
+        "array",
+        "string",
+        "number",
+        "boolean",
+        "null"
+      ]
+    },
+    "color": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "R",
+        "G",
+        "B",
+        "A"
+      ],
+      "properties": {
+        "R": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "G": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "B": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "A": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    }
   }
-]
+}

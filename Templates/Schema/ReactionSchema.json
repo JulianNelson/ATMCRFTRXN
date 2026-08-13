@@ -1,18 +1,75 @@
-[
-  {
-    "Name": "",
-    "PrimaryInput": "",
-    "Inputs": {
-      "": 0
-    },
-    "Outputs": {
-      "":0
-    },
-    "Catalysts": {},
-    "Electrolysis": false,
-    "Temperature": 100,
-    "MaxTemperature": null,
-    "ChangeInTemperature": 0,
-    "Probability": 0
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "ReactionSchema.json",
+  "title": "Reaction collection",
+  "description": "A collection of material reaction definitions.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "Name",
+      "PrimaryInput",
+      "Inputs",
+      "Outputs",
+      "Catalysts",
+      "Electrolysis",
+      "Temperature",
+      "MaxTemperature",
+      "ChangeInTemperature",
+      "Probability"
+    ],
+    "properties": {
+      "Name": {
+        "type": "string"
+      },
+      "PrimaryInput": {
+        "type": "string"
+      },
+      "Inputs": {
+        "$ref": "#/$defs/materialQuantities"
+      },
+      "Outputs": {
+        "$ref": "#/$defs/materialQuantities"
+      },
+      "Catalysts": {
+        "$ref": "#/$defs/materialQuantities"
+      },
+      "Electrolysis": {
+        "type": "boolean"
+      },
+      "Temperature": {
+        "type": [
+          "number",
+          "null"
+        ]
+      },
+      "MaxTemperature": {
+        "type": [
+          "number",
+          "null"
+        ]
+      },
+      "ChangeInTemperature": {
+        "type": [
+          "number",
+          "null"
+        ]
+      },
+      "Probability": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1
+      }
+    }
+  },
+  "$defs": {
+    "materialQuantities": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "number",
+        "minimum": 0
+      }
+    }
   }
-]
+}
