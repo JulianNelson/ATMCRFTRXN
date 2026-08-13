@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Light Naphtha Isomerization",
+    "PrimaryInput": "Straight-Run Naphtha",
+    "Inputs": {
+      "Straight-Run Naphtha": 3,
+      "Hydrogen Gas": 1
+    },
+    "Outputs": {
+      "Isomerate": 3,
+      "Hydrogen Gas": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 160,
+    "MaxTemperature": 220,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

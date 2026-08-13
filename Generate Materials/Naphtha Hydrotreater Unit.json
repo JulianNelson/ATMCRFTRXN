@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Hydrotreated Naphtha",
+    "LocIdName": "MAT_HYDROTREATED_NAPHTHA",
+    "Description": "Naphtha with sulfur, nitrogen, and olefins removed by catalytic hydrogen treatment.",
+    "Formula": "C5-C10",
+    "State": 1
+  },
+  {
+    "Name": "Naphtha Hydrotreater Sour Gas",
+    "LocIdName": "MAT_NAPHTHA_HYDROTREATER_SOUR_GAS",
+    "Description": "Hydrogen sulfide and ammonia rich gas from naphtha hydrotreating.",
+    "Formula": "H2S+NH3",
+    "State": 2
+  }
+]

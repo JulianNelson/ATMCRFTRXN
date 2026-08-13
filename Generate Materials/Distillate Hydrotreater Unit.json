@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Hydrotreated Kerosene",
+    "LocIdName": "MAT_HYDROTREATED_KEROSENE",
+    "Description": "Low-sulfur kerosene produced by distillate hydrotreating.",
+    "Formula": "C10-C16",
+    "State": 1
+  },
+  {
+    "Name": "Ultra-Low-Sulfur Diesel",
+    "LocIdName": "MAT_ULTRA_LOW_SULFUR_DIESEL",
+    "Description": "Diesel blendstock desulfurized by catalytic hydrogen treatment.",
+    "Formula": "C10-C22",
+    "State": 1
+  },
+  {
+    "Name": "Distillate Hydrotreater Sour Gas",
+    "LocIdName": "MAT_DISTILLATE_HYDROTREATER_SOUR_GAS",
+    "Description": "Acid gas released while hydrotreating middle distillates.",
+    "Formula": "H2S+NH3",
+    "State": 2
+  }
+]

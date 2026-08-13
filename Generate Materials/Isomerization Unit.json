@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Normal Butane",
+    "LocIdName": "MAT_NORMAL_BUTANE",
+    "Description": "Unbranched butane feed for skeletal isomerization.",
+    "Formula": "C4H10",
+    "State": 2
+  },
+  {
+    "Name": "Normal Pentane",
+    "LocIdName": "MAT_NORMAL_PENTANE",
+    "Description": "Unbranched pentane feed for light-naphtha isomerization.",
+    "Formula": "C5H12",
+    "State": 1
+  },
+  {
+    "Name": "Isopentane",
+    "LocIdName": "MAT_ISOPENTANE",
+    "Description": "Combined branched pentane isomerization product.",
+    "Formula": "C5H12",
+    "State": 1
+  },
+  {
+    "Name": "Normal Hexane",
+    "LocIdName": "MAT_NORMAL_HEXANE",
+    "Description": "Unbranched hexane feed for light-naphtha isomerization.",
+    "Formula": "C6H14",
+    "State": 1
+  },
+  {
+    "Name": "Isohexane",
+    "LocIdName": "MAT_ISOHEXANE",
+    "Description": "Combined branched hexane isomerization products; stereoisomers are not distinguished.",
+    "Formula": "C6H14",
+    "State": 1
+  },
+  {
+    "Name": "Isomerate",
+    "LocIdName": "MAT_ISOMERATE",
+    "Description": "High-octane mixture from light-naphtha isomerization.",
+    "Formula": "C5-C6",
+    "State": 1
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Vacuum Gas Oil Hydrocracking",
+    "PrimaryInput": "Heavy Vacuum Gas Oil",
+    "Inputs": {
+      "Heavy Vacuum Gas Oil": 10,
+      "Hydrogen Gas": 4
+    },
+    "Outputs": {
+      "Hydrocracked Naphtha": 3,
+      "Hydrocracked Kerosene": 2,
+      "Hydrocracked Diesel": 3,
+      "Hydrocracker Unconverted Oil": 2
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 400,
+    "MaxTemperature": 450,
+    "ChangeInTemperature": 3000,
+    "Probability": 0
+  }
+]

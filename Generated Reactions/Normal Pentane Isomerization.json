@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Normal Pentane Isomerization",
+    "PrimaryInput": "Normal Pentane",
+    "Inputs": {
+      "Normal Pentane": 1
+    },
+    "Outputs": {
+      "Isopentane": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 150,
+    "MaxTemperature": 200,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]

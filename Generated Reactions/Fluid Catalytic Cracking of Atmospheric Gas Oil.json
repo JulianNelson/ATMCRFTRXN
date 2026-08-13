@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Fluid Catalytic Cracking of Atmospheric Gas Oil",
+    "PrimaryInput": "Atmospheric Gas Oil",
+    "Inputs": {
+      "Atmospheric Gas Oil": 10
+    },
+    "Outputs": {
+      "FCC Gasoline": 5,
+      "Propene": 1,
+      "Butene": 1,
+      "Light Cycle Oil": 2,
+      "FCC Coke": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 510,
+    "MaxTemperature": 550,
+    "ChangeInTemperature": 2000,
+    "Probability": 0
+  }
+]

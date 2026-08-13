@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Hydrogen Sulfide Amine Absorption",
+    "PrimaryInput": "Hydrogen Sulfide Gas",
+    "Inputs": {
+      "Hydrogen Sulfide Gas": 1,
+      "Monoethanolamine": 1
+    },
+    "Outputs": {
+      "Rich Amine": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": 40,
+    "MaxTemperature": 60,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]
